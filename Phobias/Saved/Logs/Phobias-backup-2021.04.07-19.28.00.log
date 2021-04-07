@@ -1,0 +1,1482 @@
+﻿Log file open, 04/07/21 14:33:21
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Phobias
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 71 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.217255
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 9 3900X 12-Core Processor            , GPU: Radeon RX 590 Series
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=Edwinstz -epicuserid=a1c5a639355643cfb925b24c95fa1c16 -epiclocale=en
+LogInit: Base Directory: D:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.04.07-18.33.21:581][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Engine.ini]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Engine.ini]
+[2021.04.07-18.33.21:582][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Engine.ini]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Engine.ini]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.04.07-18.33.21:582][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Engine.ini]
+[2021.04.07-18.33.21:582][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Engine.ini]
+[2021.04.07-18.33.21:598][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.07-18.33.21:598][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.07-18.33.21:599][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.07-18.33.21:599][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.04.07-18.33.21:599][  0]LogHAL: Display: Platform has ~ 32 GB [34268094464 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.04.07-18.33.21:599][  0]LogInit: Going up to parent DeviceProfile []
+[2021.04.07-18.33.21:599][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.04.07-18.33.21:599][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Scalability.ini]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.04.07-18.33.21:600][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Config/Windows/Engine.ini]
+[2021.04.07-18.33.21:601][  0]LogInit: Computer: DESKTOP-EPL7NBG
+[2021.04.07-18.33.21:601][  0]LogInit: User: edwin
+[2021.04.07-18.33.21:601][  0]LogInit: CPU Page size=4096, Cores=12
+[2021.04.07-18.33.21:601][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.04.07-18.33.21:601][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.04.07-18.33.21:601][  0]LogMemory: Platform Memory Stats for Windows
+[2021.04.07-18.33.21:601][  0]LogMemory: Process Physical Memory: 146.16 MB used, 146.16 MB peak
+[2021.04.07-18.33.21:601][  0]LogMemory: Process Virtual Memory: 132.24 MB used, 132.24 MB peak
+[2021.04.07-18.33.21:601][  0]LogMemory: Physical Memory: 10479.39 MB used,  22201.21 MB free, 32680.60 MB total
+[2021.04.07-18.33.21:601][  0]LogMemory: Virtual Memory: 134198616.00 MB used,  19108.70 MB free, 134217728.00 MB total
+[2021.04.07-18.33.21:607][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.04.07-18.33.21:624][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.04.07-18.33.21:624][  0]LogInit: Using OS detected language (en-US).
+[2021.04.07-18.33.21:624][  0]LogInit: Using OS detected locale (en-US).
+[2021.04.07-18.33.21:625][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.04.07-18.33.21:784][  0]LogInit: Setting process to per monitor DPI aware
+[2021.04.07-18.33.21:791][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.04.07-18.33.21:818][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.04.07-18.33.21:818][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.04.07-18.33.21:952][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.07-18.33.21:952][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.04.07-18.33.21:952][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.04.07-18.33.21:952][  0]LogD3D11RHI: D3D11 adapters:
+[2021.04.07-18.33.21:998][  0]LogD3D11RHI:    0. 'Radeon RX 590 Series' (Feature Level 11_0)
+[2021.04.07-18.33.21:998][  0]LogD3D11RHI:       8171/0/16340 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2021.04.07-18.33.22:001][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.04.07-18.33.22:001][  0]LogD3D11RHI:       0/0/16340 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.04.07-18.33.22:001][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.04.07-18.33.22:010][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.04.07-18.33.22:011][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2021.04.07-18.33.22:011][  0]LogWindows: EnumDisplayDevices:
+[2021.04.07-18.33.22:011][  0]LogWindows:    0. 'Radeon RX 590 Series' (P:1 D:1)
+[2021.04.07-18.33.22:011][  0]LogWindows:    1. 'Radeon RX 590 Series' (P:0 D:1)
+[2021.04.07-18.33.22:011][  0]LogWindows:    2. 'Radeon RX 590 Series' (P:0 D:0)
+[2021.04.07-18.33.22:012][  0]LogWindows:    3. 'Radeon RX 590 Series' (P:0 D:0)
+[2021.04.07-18.33.22:012][  0]LogWindows:    4. 'Radeon RX 590 Series' (P:0 D:0)
+[2021.04.07-18.33.22:012][  0]LogWindows:    5. 'Radeon RX 590 Series' (P:0 D:0)
+[2021.04.07-18.33.22:012][  0]LogWindows:    6. 'Radeon RX 590 Series' (P:0 D:0)
+[2021.04.07-18.33.22:013][  0]LogWindows:    7. 'Radeon RX 590 Series' (P:0 D:0)
+[2021.04.07-18.33.22:013][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2021.04.07-18.33.22:013][  0]LogD3D11RHI:     Adapter Name: Radeon RX 590 Series
+[2021.04.07-18.33.22:013][  0]LogD3D11RHI:   Driver Version: Adrenalin 2020 21.3.1 (internal:27.20.15003.1004, unified:27.20.15003.1004)
+[2021.04.07-18.33.22:013][  0]LogD3D11RHI:      Driver Date: 3-10-2021
+[2021.04.07-18.33.22:013][  0]LogRHI: Texture pool is 5182 MB (70% of 7403 MB)
+[2021.04.07-18.33.22:081][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.04.07-18.33.22:081][  0]LogD3D11RHI: Async texture creation enabled
+[2021.04.07-18.33.22:081][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.04.07-18.33.22:092][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2021.04.07-18.33.22:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.04.07-18.33.22:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.04.07-18.33.22:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.04.07-18.33.22:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.04.07-18.33.22:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.04.07-18.33.22:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.04.07-18.33.22:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.04.07-18.33.22:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.04.07-18.33.22:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.04.07-18.33.22:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.04.07-18.33.22:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.04.07-18.33.22:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.04.07-18.33.22:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.04.07-18.33.22:377][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.04.07-18.33.22:385][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.04.07-18.33.22:392][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.04.07-18.33.22:399][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.04.07-18.33.22:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.04.07-18.33.22:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.04.07-18.33.22:421][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.04.07-18.33.22:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.04.07-18.33.22:440][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.04.07-18.33.22:447][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.04.07-18.33.22:454][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.04.07-18.33.22:461][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.04.07-18.33.22:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.04.07-18.33.22:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.04.07-18.33.22:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.04.07-18.33.22:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.04.07-18.33.22:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.04.07-18.33.22:500][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.04.07-18.33.22:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.04.07-18.33.22:507][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.04.07-18.33.22:513][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.04.07-18.33.22:560][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.04.07-18.33.22:560][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Intermediate/Shaders/WorkingDirectory/15784/).
+[2021.04.07-18.33.22:560][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/edwin/AppData/Local/Temp/UnrealShaderWorkingDir/7F6926644A2B7AFFA5A9A18C1EDECFA6/'.
+[2021.04.07-18.33.22:560][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.04.07-18.33.22:561][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.04.07-18.33.23:169][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.04.07-18.33.23:208][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/edwin/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.07-18.33.23:208][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/edwin/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.04.07-18.33.23:208][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.04.07-18.33.23:208][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.04.07-18.33.23:208][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.07-18.33.23:208][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.04.07-18.33.23:220][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.04.07-18.33.23:220][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.04.07-18.33.23:220][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.04.07-18.33.23:227][  0]LogDerivedDataCache: Speed tests for C:/Users/edwin/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.04.07-18.33.23:227][  0]LogDerivedDataCache: Display: Performance to C:/Users/edwin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1233.99MBs, RandomWriteSpeed=178.12MBs. Assigned SpeedClass 'Local'
+[2021.04.07-18.33.23:227][  0]LogDerivedDataCache: Using Local data cache path C:/Users/edwin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.04.07-18.33.23:228][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.04.07-18.33.23:228][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.04.07-18.33.23:269][  0]LogSlate: Using FreeType 2.10.0
+[2021.04.07-18.33.23:269][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.04.07-18.33.23:287][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2021.04.07-18.33.23:487][  0]LogInit: Selected Device Profile: [Windows]
+[2021.04.07-18.33.23:487][  0]LogInit: Active device profile: [0000029EFDEA6200][0000029EFD2B4140 49] Windows
+[2021.04.07-18.33.23:487][  0]LogInit: Profiles: [0000029EFDEA6200][0000029EFD2B4140 49] Windows, [0000029EFDD9DD00][0000029EFD2C22C0 49] WindowsNoEditor, [0000029EFDEA6B00][0000029EFD2C6440 49] WindowsServer, [0000029EFDD9CF00][0000029EFD2CA5C0 49] WindowsClient, [0000029EFDEA4C00][0000029EFE4D0740 49] IOS, [0000029EFDD9EF00][0000029EFE4D48C0 49] iPadAir, [0000029EFDEA4700][0000029EFE4D8A40 49] iPadAir2, [0000029EFDD51D00][0000029EFE4E6D00 49] IPadPro, [0000029EFDD51E00][0000029EFE4DCD40 49] iPadAir3, [0000029EFDD9D800][0000029EFE4F0EC0 49] iPadAir4, [0000029EFDD53600][0000029EFE4F5040 49] iPadMini2, [0000029EFDD9D400][0000029EFE4F91C0 49] iPadMini3, [0000029EFDD51500][0000029EFE4FD340 49] iPadMini4, [0000029EFDD9EC00][0000029EFE6854C0 49] iPadMini5, [0000029EFDD91400][0000029EFE689700 49] iPhone6, [0000029EFDD91500][0000029EFD2B9740 49] iPodTouch6, [0000029EFDD50F00][0000029EFE691980 49] iPhone7, [0000029EFDD50E00][0000029EFE68D9C0 49] iPodTouch7, [0000029EFDD92C00][0000029EFE699B40 49] iPhone5S, [0000029EFDD52C00][0000029EFE69DCC0 49] iPhone6Plus, [0000029EFDD93C00][0000029EFE6A0180 49] iPhone6S, [0000029EFDD50100][0000029EFE6A4300 49] iPhone6SPlus, [0000029EFDD90700][0000029EFE6A8480 49] iPhone7Plus, [0000029EFDD52B00][0000029EFE6AC600 49] iPhoneSE, [0000029EFDD92700][0000029EFE6B0780 49] iPhone8, [0000029EFDD50900][0000029EFE6B4900 49] iPhone8Plus, [0000029EFDD93E00][0000029EFE6B8A80 49] iPhoneX, [0000029EFDD52100][0000029EFE6BCC00 49] iPhoneXS, [0000029EFDD92600][0000029EFE6C0D80 49] iPhoneXSMax, [0000029EFDD51B00][0000029EFE6C4F00 49] iPhoneXR, [0000029EFDD90B00][0000029EFE6C9080 49] iPhone11, [0000029EFDD53000][0000029EFE6CD200 49] iPhone11Pro, [0000029EFDD93800][0000029EFE6D1380 49] iPhone11ProMax, [0000029EFDD51300][0000029EFE6D5500 49] iPhoneSE2, [0000029EFDD90A00][0000029EFE695640 49] iPhone12Mini, [0000029EFDD52600][0000029EFE6D9780 49] iPhone12, [0000029EFDD92A00][0000029EFE6DD8C0 49] iPhone12Pro, [0000029EFDEA4B00][0000029EFE6F1A00 49] iPhone12ProMax, [0000029EFDD90900][0000029EFE6F9B80 49] iPadPro105, [0000029EFDEA6800][0000029EFE6FDD00 49] iPadPro129, [0000029EFDD90100][0000029EFE7001C0 49] iPadPro97, [0000029EFDEA6000][0000029EFE704340 49] iPadPro2_129, [0000029EFDD92500][0000029EFE7084C0 49] iPad5, [0000029EFDEA5300][0000029EFE70C640 49] iPad6, [0000029EFDD92400][0000029EFE7107C0 49] iPad7, [0000029EFDEA4200][0000029EFE714940 49] iPad8, [0000029EFDD90D00][0000029EFE718AC0 49] iPadPro11, [0000029EFDEA4100][0000029EFE71CC40 49] iPadPro2_11, [0000029EFDD91700][0000029EFE720DC0 49] iPadPro3_129, [0000029EFDEA7400][0000029EFE724F40 49] iPadPro4_129, [0000029EFDD90500][0000029EFE7290C0 49] AppleTV, [0000029EFDEA6600][0000029EFE72D240 49] AppleTV4K, [0000029EFDD93F00][0000029EFE7313C0 49] TVOS, [0000029EFDEA7100][0000029EFE735540 49] Mac, [0000029EFDD90E00][0000029EFE7396C0 49] MacClient, [0000029EFDEA4400][0000029EFE6F5800 49] MacNoEditor, [0000029EFDD90200][0000029EFE73D940 49] MacServer, [0000029EFDEA4F00][0000029EFE741A80 49] Linux, [0000029EFDD93200][0000029EFE8CDC00 49] LinuxNoEditor, [0000029EFDEA5900][0000029EFE8D40C0 49] LinuxAArch64NoEditor, [0000029EFDD93400][0000029EFE8DE240 49] LinuxClient, [0000029EFDEA6900][0000029EFE8E23C0 49] LinuxAArch64Client, [0000029EFDD93300][0000029EFE8E6540 49] LinuxServer, [0000029EFDEA4900][0000029EFE8EA6C0 49] LinuxAArch64Server, [0000029EFDD91300][0000029EFE8EE840 49] Android, [0000029EFDEA5E00][0000029EFE8F29C0 49] Android_Low, [0000029EFDD93D00][0000029EFE8F6B40 49] Android_Mid, [0000029EFDEA6C00][0000029EFE8FACC0 49] Android_High, [0000029EFDD93100][0000029EFE8FEE40 49] Android_Default, [0000029EFDEA5B00][0000029EFE902FC0 49] Android_Adreno4xx, [0000029EFDD91000][0000029EFE907140 49] Android_Adreno5xx_Low, [0000029EFDEA4600][0000029EFE90B2C0 49] Android_Adreno5xx, [0000029EFDD91E00][0000029EFE90F440 49] Android_Adreno6xx, [0000029EFDEA7000][0000029EFE9135C0 49] Android_Adreno6xx_Vulkan, [0000029EFDD92000][0000029EFE917740 49] Android_Mali_T6xx, [0000029EFDEA5F00][0000029EFE8C9880 49] Android_Mali_T7xx, [0000029EFDD9D600][0000029EFE91B9C0 49] Android_Mali_T8xx, [0000029EFDD51600][0000029EFE91FB00 49] Android_Mali_G71, [0000029EFDD9C200][0000029EFE923C40 49] Android_Mali_G72, [0000029EFDD53C00][0000029EFE92A100 49] Android_Mali_G72_Vulkan, [0000029EFDD9CD00][0000029EFE92E280 49] Android_Mali_G76, [0000029EFDD52900][0000029EFE932400 49] Android_Mali_G76_Vulkan, [0000029EFDD9CB00][0000029EFE936580 49] Android_Mali_G77, [0000029EFDD52E00][0000029EFE93A700 49] Android_Mali_G77_Vulkan, [0000029EFDD9C800][0000029EFE93E880 49] Android_Vulkan_SM5, [0000029EFDD51800][0000029EFE942A00 49] Android_PowerVR_G6xxx, [0000029EFDD9E700][0000029EFE946B80 49] Android_PowerVR_GT7xxx, [0000029EFDD52700][0000029EFE94AD00 49] Android_PowerVR_GE8xxx, [0000029EFDD9F700][0000029EFE94EE80 49] Android_PowerVR_GM9xxx, [0000029EFDD53B00][0000029EFE953000 49] Android_PowerVR_GM9xxx_Vulkan, [0000029EFDD9EA00][0000029EFE957180 49] Android_TegraK1, [0000029EFDD53500][0000029EFE95B300 49] Android_Unknown_Vulkan, [0000029EFDD9F900][0000029EFE95F480 49] Lumin, [0000029EFDD50500][0000029EFE963600 49] Lumin_Desktop, [0000029EFDD9C600][0000029EFE967780 49] HoloLens, 
+[2021.04.07-18.33.23:575][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.04.07-18.33.23:575][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.04.07-18.33.23:575][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.04.07-18.33.23:575][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.04.07-18.33.23:575][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.04.07-18.33.23:599][  0]LogNetVersion: Phobias 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 255180700)
+[2021.04.07-18.33.23:928][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.04.07-18.33.23:969][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.040456 seconds
+[2021.04.07-18.33.23:975][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.04.07-18.33.23:975][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.04.07-18.33.23:975][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.04.07-18.33.24:265][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.04.07-18.33.24:271][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.04.07-18.33.24:339][  0]SourceControl: Source control is disabled
+[2021.04.07-18.33.24:970][  0]LogUProjectInfo: Found projects:
+[2021.04.07-18.33.25:151][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.04.07-18.33.25:172][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.07-18.33.25:172][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.04.07-18.33.25:207][  0]LogCollectionManager: Loaded 0 collections in 0.000597 seconds
+[2021.04.07-18.33.25:227][  0]LogFileCache: Scanning file cache for directory 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Collections/' took 0.00s
+[2021.04.07-18.33.25:227][  0]LogFileCache: Scanning file cache for directory 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Developers/edwin/Collections/' took 0.00s
+[2021.04.07-18.33.25:227][  0]LogFileCache: Scanning file cache for directory 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Collections/' took 0.00s
+[2021.04.07-18.33.25:227][  0]LogOcInput: OculusInput pre-init called
+[2021.04.07-18.33.25:236][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.04.07-18.33.25:236][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.04.07-18.33.25:285][  0]LogEngine: Initializing Engine...
+[2021.04.07-18.33.25:286][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.04.07-18.33.25:286][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.04.07-18.33.25:287][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.04.07-18.33.25:371][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.04.07-18.33.25:377][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.04.07-18.33.25:390][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.04.07-18.33.25:394][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.04.07-18.33.25:394][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.04.07-18.33.25:394][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.07-18.33.25:394][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.07-18.33.25:394][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.07-18.33.25:394][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.07-18.33.25:394][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.07-18.33.25:394][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.07-18.33.25:394][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.07-18.33.25:394][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.07-18.33.25:394][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.07-18.33.25:394][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.07-18.33.25:403][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.07-18.33.25:403][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.04.07-18.33.25:403][  0]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.07-18.33.25:403][  0]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.07-18.33.25:403][  0]LogAudioMixer: Display: 4: BackLeft
+[2021.04.07-18.33.25:403][  0]LogAudioMixer: Display: 5: BackRight
+[2021.04.07-18.33.25:403][  0]LogAudioMixer: Display: 6: SideLeft
+[2021.04.07-18.33.25:403][  0]LogAudioMixer: Display: 7: SideRight
+[2021.04.07-18.33.25:442][  0]LogAudioMixer: Display: Using Audio Device Speakers (7.1 Surround Sound)
+[2021.04.07-18.33.25:444][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.07-18.33.25:445][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.07-18.33.25:445][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.07-18.33.25:446][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.07-18.33.25:446][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.07-18.33.25:446][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.07-18.33.25:447][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.07-18.33.25:447][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.07-18.33.25:447][  0]LogInit: FAudioDevice initialized.
+[2021.04.07-18.33.25:447][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.04.07-18.33.25:447][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.04.07-18.33.25:526][  0]LogDerivedDataCache: Saved boot cache 0.08s 77MB C:/Users/edwin/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.04.07-18.33.25:526][  0]LogInit: Texture streaming: Enabled
+[2021.04.07-18.33.25:538][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.04.07-18.33.25:542][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.04.07-18.33.25:542][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.04.07-18.33.25:545][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.04.07-18.33.25:572][  0]LogInit: Transaction tracking system initialized
+[2021.04.07-18.33.25:708][  0]BlueprintLog: New page: Editor Load
+[2021.04.07-18.33.25:762][  0]LocalizationService: Localization service is disabled
+[2021.04.07-18.33.25:780][  0]TimingProfiler: Initialize
+[2021.04.07-18.33.25:780][  0]TimingProfiler: OnSessionChanged
+[2021.04.07-18.33.25:780][  0]LoadingProfiler: Initialize
+[2021.04.07-18.33.25:781][  0]LoadingProfiler: OnSessionChanged
+[2021.04.07-18.33.25:781][  0]NetworkingProfiler: Initialize
+[2021.04.07-18.33.25:781][  0]NetworkingProfiler: OnSessionChanged
+[2021.04.07-18.33.25:781][  0]MemoryProfiler: Initialize
+[2021.04.07-18.33.25:781][  0]MemoryProfiler: OnSessionChanged
+[2021.04.07-18.33.26:087][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.04.07-18.33.26:087][  0]LogCook: Display: Mobile HDR setting 1
+[2021.04.07-18.33.26:206][  0]LogFileCache: Scanning file cache for directory 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/' took 0.02s
+[2021.04.07-18.33.26:321][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.04.07-18.33.26:324][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.608
+[2021.04.07-18.33.26:324][  0]Cmd: MAP LOAD FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Fear_Of_The_Dark_Revamp.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.07-18.33.26:325][  0]LightingResults: New page: Lighting Build
+[2021.04.07-18.33.26:325][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.33.26:326][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.33.26:326][  0]MapCheck: New page: Map Check
+[2021.04.07-18.33.26:326][  0]LightingResults: New page: Lighting Build
+[2021.04.07-18.33.26:689][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.04.07-18.33.29:019][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave _No_Copyright_Music__Broken_Piano_Horror_Music_Royalty_Free_Music...
+[2021.04.07-18.33.29:030][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/StarterContent/Audio/_No_Copyright_Music__Broken_Piano_Horror_Music_Royalty_Free_Music._No_Copyright_Music__Broken_Piano_Horror_Music_Royalty_Free_Music will be modified from 40 to 40.
+[2021.04.07-18.33.31:642][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 27947008 while cooking SoundWave /Game/StarterContent/Audio/_No_Copyright_Music__Broken_Piano_Horror_Music_Royalty_Free_Music._No_Copyright_Music__Broken_Piano_Horror_Music_Royalty_Free_Music.
+[2021.04.07-18.33.31:908][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Fear_Of_The_Dark_Revamp'.
+[2021.04.07-18.33.31:926][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.07-18.33.31:926][  0]LogAIModule: Creating AISystem for world Fear_Of_The_Dark_Revamp
+[2021.04.07-18.33.31:936][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.04.07-18.33.31:936][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.07-18.33.31:937][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.19ms to complete.
+[2021.04.07-18.33.31:937][  0]LogFileHelpers: Loading map 'Fear_Of_The_Dark_Revamp' took 5.612
+[2021.04.07-18.33.31:938][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.222
+[2021.04.07-18.33.32:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-18.33.32:147][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-18.33.32:151][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-18.33.32:158][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-18.33.32:192][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3601 classes and 859 folders.
+[2021.04.07-18.33.32:204][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.07-18.33.32:243][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.07-18.33.32:243][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:243][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.07-18.33.32:243][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.04.07-18.33.32:258][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.07-18.33.32:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.07-18.33.32:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.04.07-18.33.32:259][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.04.07-18.33.32:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.04.07-18.33.32:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.04.07-18.33.32:261][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.07-18.33.32:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.07-18.33.32:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.04.07-18.33.32:262][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.07-18.33.32:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.07-18.33.32:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.04.07-18.33.32:264][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.07-18.33.32:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.07-18.33.32:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.04.07-18.33.32:269][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.07-18.33.32:269][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:269][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.07-18.33.32:269][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.04.07-18.33.32:286][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.07-18.33.32:286][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:286][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.07-18.33.32:286][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.04.07-18.33.32:296][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.07-18.33.32:296][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:296][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.07-18.33.32:296][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.04.07-18.33.32:310][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.04.07-18.33.32:310][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:310][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.04.07-18.33.32:310][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.04.07-18.33.32:326][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.04.07-18.33.32:326][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:326][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.04.07-18.33.32:326][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.04.07-18.33.32:335][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.07-18.33.32:335][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:335][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.07-18.33.32:335][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.04.07-18.33.32:336][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.07-18.33.32:337][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:337][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.07-18.33.32:337][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.04.07-18.33.32:338][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.07-18.33.32:338][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:338][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.07-18.33.32:338][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.04.07-18.33.32:345][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.04.07-18.33.32:345][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:345][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.04.07-18.33.32:345][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.04.07-18.33.32:347][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.07-18.33.32:347][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:347][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.07-18.33.32:347][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.04.07-18.33.32:348][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.04.07-18.33.32:348][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:348][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.04.07-18.33.32:348][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.04.07-18.33.32:349][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.07-18.33.32:349][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:349][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.07-18.33.32:349][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.04.07-18.33.32:351][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.07-18.33.32:351][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:351][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.07-18.33.32:351][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.04.07-18.33.32:361][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.07-18.33.32:361][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:361][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.07-18.33.32:361][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.04.07-18.33.32:362][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.04.07-18.33.32:362][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:362][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.04.07-18.33.32:362][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.04.07-18.33.32:363][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.04.07-18.33.32:363][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:363][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.04.07-18.33.32:363][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.04.07-18.33.32:365][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.04.07-18.33.32:365][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:365][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.04.07-18.33.32:365][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.04.07-18.33.32:373][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.04.07-18.33.32:373][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:373][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.04.07-18.33.32:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.04.07-18.33.32:374][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.04.07-18.33.32:374][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:374][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.04.07-18.33.32:374][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.04.07-18.33.32:388][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.04.07-18.33.32:388][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.04.07-18.33.32:388][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.04.07-18.33.32:388][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.04.07-18.33.32:863][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.04.07-18.33.32:886][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.04.07-18.33.32:951][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.04.07-18.33.32:953][  0]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.04.07-18.33.32:967][  0]LogSlate: Took 0.010730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.04.07-18.33.33:123][  0]LogRenderer: Reallocating scene render targets to support 1616x872 Format 10 NumSamples 1 (Frame:1).
+[2021.04.07-18.33.33:298][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.04.07-18.33.33:298][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.04.07-18.33.33:298][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.04.07-18.33.33:298][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.04.07-18.33.33:298][  0]LogLoad: (Engine Initialization) Total time: 12.58 seconds
+[2021.04.07-18.33.33:298][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.04.07-18.33.33:298][  0]LogInit: First time updating LLM stats...
+[2021.04.07-18.33.33:355][  0]LogAssetRegistry: Asset discovery search completed in 10.0692 seconds
+[2021.04.07-18.33.33:357][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.04.07-18.33.33:410][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.04.07-18.33.34:373][  4]LogSlate: Took 0.017916 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.07-18.33.34:389][  4]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/SaveSystem/SaveBP.SaveBP
+[2021.04.07-18.33.34:526][  4]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.04.07-18.33.35:321][  4]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ChildCharacterBP.ChildCharacterBP
+[2021.04.07-18.33.35:705][  4]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MonsterAnim/MonsterBP.MonsterBP
+[2021.04.07-18.33.36:005][  4]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/InventorySystem/Item.Item
+[2021.04.07-18.33.36:306][  4]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BluePrints/InventorySystem/InventoryUI/InventorySlot.InventorySlot
+[2021.04.07-18.33.36:723][  4]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/InventorySystem/InventoryComponent.InventoryComponent
+[2021.04.07-18.33.37:044][  4]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Scary_Horror_Music_-_Haunted__Copyright_and_Royalty_Free_...
+[2021.04.07-18.33.37:056][  4]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/StarterContent/Audio/Scary_Horror_Music_-_Haunted__Copyright_and_Royalty_Free_.Scary_Horror_Music_-_Haunted__Copyright_and_Royalty_Free_ will be modified from 40 to 40.
+[2021.04.07-18.33.39:231][  4]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 31653888 while cooking SoundWave /Game/StarterContent/Audio/Scary_Horror_Music_-_Haunted__Copyright_and_Royalty_Free_.Scary_Horror_Music_-_Haunted__Copyright_and_Royalty_Free_.
+[2021.04.07-18.33.39:241][  4]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG_MainMenu/MainMenu.MainMenu
+[2021.04.07-18.33.39:879][  4]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.04.07-18.41.21:242][383]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.41.21:243][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.41.21:251][383]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.41.21:251][383]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.41.21:512][384]LogSlate: Took 0.010852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.04.07-18.41.24:744][745]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.41.24:744][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.41.26:952][991]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.41.26:952][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.41.27:535][ 53]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.07-18.41.27:535][ 53]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.41.27:535][ 53]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.41.27:743][ 72]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.04.07-18.41.27:743][ 72]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.41.27:743][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.41.27:995][ 92]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.41.27:995][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.41.28:002][ 92]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.41.28:002][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.41.28:319][125]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.41.28:319][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.41.42:947][750]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Fear_Of_The_Dark_Revamp.Fear_Of_The_Dark_Revamp:PersistentLevel.Fear_Of_The_Dark_Revamp
+[2021.04.07-18.41.45:653][978]LogSlate: Window 'Fear_Of_The_Dark_Revamp' being destroyed
+[2021.04.07-18.42.22:816][374]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Phobias_Game_Instance.Phobias_Game_Instance
+[2021.04.07-18.43.08:670][585]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/SaveSystem/SaveBP.SaveBP
+[2021.04.07-18.43.10:643][783]BlueprintLog: New page: Compile Fear_Of_The_Dark_Revamp
+[2021.04.07-18.43.10:647][783]LogBlueprint: Error: [AssetLog] C:\Users\edwin\Documents\Github\Phobia-Third-Person\Phobias\Content\Levels\Fear_Of_The_Dark_Revamp.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To ChildCharacterBP  to imply a specific type.
+[2021.04.07-18.43.10:647][783]LogBlueprint: Error: [AssetLog] C:\Users\edwin\Documents\Github\Phobia-Third-Person\Phobias\Content\Levels\Fear_Of_The_Dark_Revamp.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.04.07-18.43.11:228][783]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2021.04.07-18.43.11:364][783]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.04.07-18.43.11:434][783]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark_RevampF223A61846AE70A0EEDEE1A3B84309BB.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark_Revamp.umap'
+[2021.04.07-18.43.11:449][783]LogFileHelpers: Saving map 'Fear_Of_The_Dark_Revamp' took 0.127
+[2021.04.07-18.43.11:463][783]AssetCheck: New page: Asset Save: Fear_Of_The_Dark_Revamp
+[2021.04.07-18.43.11:463][783]LogContentValidation: Display: Validating World /Game/Levels/Fear_Of_The_Dark_Revamp.Fear_Of_The_Dark_Revamp
+[2021.04.07-18.43.11:502][783]LogSlate: Took 0.021594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.04.07-18.43.24:546][285]BlueprintLog: New page: Compile Fear_Of_The_Dark_Revamp
+[2021.04.07-18.43.24:549][285]LogBlueprint: Warning: [AssetLog] C:\Users\edwin\Documents\Github\Phobia-Third-Person\Phobias\Content\Levels\Fear_Of_The_Dark_Revamp.umap: [Compiler] 'Child Character BP' does not inherit from 'Player Controller' ( Cast To ChildCharacterBP  would always fail).
+[2021.04.07-18.43.24:588][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.04.07-18.43.38:075][815]BlueprintLog: New page: Compile Fear_Of_The_Dark_Revamp
+[2021.04.07-18.43.38:116][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.04.07-18.43.38:230][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.04.07-18.43.38:299][815]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark_RevampEA9766484324D928443A7784D87C1064.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark_Revamp.umap'
+[2021.04.07-18.43.38:305][815]LogFileHelpers: Saving map 'Fear_Of_The_Dark_Revamp' took 0.094
+[2021.04.07-18.43.38:315][815]AssetCheck: New page: Asset Save: Fear_Of_The_Dark_Revamp
+[2021.04.07-18.43.38:315][815]LogContentValidation: Display: Validating World /Game/Levels/Fear_Of_The_Dark_Revamp.Fear_Of_The_Dark_Revamp
+[2021.04.07-18.43.38:812][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.04.07-18.43.38:881][860]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark_RevampB7222FB141B250AAB1725989B5D17BC1.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark_Revamp.umap'
+[2021.04.07-18.43.38:887][860]LogFileHelpers: Saving map 'Fear_Of_The_Dark_Revamp' took 0.093
+[2021.04.07-18.43.38:896][860]AssetCheck: New page: Asset Save: Fear_Of_The_Dark_Revamp
+[2021.04.07-18.43.38:896][860]LogContentValidation: Display: Validating World /Game/Levels/Fear_Of_The_Dark_Revamp.Fear_Of_The_Dark_Revamp
+[2021.04.07-18.45.17:916][434]BlueprintLog: New page: Compile Phobias_Game_Instance
+[2021.04.07-18.45.17:949][434]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.04.07-18.45.18:044][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Phobias_Game_Instance" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Phobias_Game_Instance.uasset" SILENT=true
+[2021.04.07-18.45.18:064][434]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Phobias_Game_InstanceBE6118594C728B11B587239432CA7F7D.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Phobias_Game_Instance.uasset'
+[2021.04.07-18.45.18:074][434]AssetCheck: New page: Asset Save: Phobias_Game_Instance
+[2021.04.07-18.45.18:074][434]LogContentValidation: Display: Validating Blueprint /Game/Phobias_Game_Instance.Phobias_Game_Instance
+[2021.04.07-18.45.20:547][707]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/BluePrints/SaveSystem/LevelOneSaveDataStruct.LevelOneSaveDataStruct
+[2021.04.07-18.46.11:954][561]BlueprintLog: New page: Compile Fear_Of_The_Dark_Revamp
+[2021.04.07-18.46.11:997][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.04.07-18.46.12:110][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.04.07-18.46.12:180][561]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark_Revamp5921F04A4F848354FEAF23858A908CFA.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark_Revamp.umap'
+[2021.04.07-18.46.12:186][561]LogFileHelpers: Saving map 'Fear_Of_The_Dark_Revamp' took 0.098
+[2021.04.07-18.46.12:194][561]AssetCheck: New page: Asset Save: Fear_Of_The_Dark_Revamp
+[2021.04.07-18.46.12:195][561]LogContentValidation: Display: Validating World /Game/Levels/Fear_Of_The_Dark_Revamp.Fear_Of_The_Dark_Revamp
+[2021.04.07-18.47.03:321][446]BlueprintLog: New page: Compile Phobias_Game_Instance
+[2021.04.07-18.47.03:358][446]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.04.07-18.47.11:085][358]BlueprintLog: New page: Compile Fear_Of_The_Dark_Revamp
+[2021.04.07-18.47.11:127][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2021.04.07-18.47.11:242][358]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.04.07-18.47.11:310][358]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark_Revamp582D6E1541282CAEA3EEA5B38CD1F4BC.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark_Revamp.umap'
+[2021.04.07-18.47.11:316][358]LogFileHelpers: Saving map 'Fear_Of_The_Dark_Revamp' took 0.095
+[2021.04.07-18.47.11:325][358]AssetCheck: New page: Asset Save: Fear_Of_The_Dark_Revamp
+[2021.04.07-18.47.11:325][358]LogContentValidation: Display: Validating World /Game/Levels/Fear_Of_The_Dark_Revamp.Fear_Of_The_Dark_Revamp
+[2021.04.07-18.47.19:100][272]BlueprintLog: New page: Compile Fear_Of_The_Dark_Revamp
+[2021.04.07-18.47.19:143][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.04.07-18.47.19:248][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.04.07-18.47.19:319][272]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark_RevampAA4D64DB431B22CAD7AC89BB7070BB1D.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark_Revamp.umap'
+[2021.04.07-18.47.19:325][272]LogFileHelpers: Saving map 'Fear_Of_The_Dark_Revamp' took 0.098
+[2021.04.07-18.47.19:334][272]AssetCheck: New page: Asset Save: Fear_Of_The_Dark_Revamp
+[2021.04.07-18.47.19:334][272]LogContentValidation: Display: Validating World /Game/Levels/Fear_Of_The_Dark_Revamp.Fear_Of_The_Dark_Revamp
+[2021.04.07-18.47.19:633][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.07-18.47.19:702][289]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark_Revamp85720EAE46CEA63D697568BB78D0A658.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark_Revamp.umap'
+[2021.04.07-18.47.19:708][289]LogFileHelpers: Saving map 'Fear_Of_The_Dark_Revamp' took 0.094
+[2021.04.07-18.47.19:715][289]AssetCheck: New page: Asset Save: Fear_Of_The_Dark_Revamp
+[2021.04.07-18.47.19:715][289]LogContentValidation: Display: Validating World /Game/Levels/Fear_Of_The_Dark_Revamp.Fear_Of_The_Dark_Revamp
+[2021.04.07-18.47.34:863][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.04.07-18.47.35:646][940]LogMaterial: Display: Missing cached shader map for material Cel_Shader, compiling. 
+[2021.04.07-18.47.35:749][940]LogShaderCompilers: Display: Worker (1/21): shaders left to compile 4
+[2021.04.07-18.47.35:749][940]LogShaderCompilers: Display: Worker (2/21): shaders left to compile 3
+[2021.04.07-18.47.35:749][940]LogShaderCompilers: Display: Worker (3/21): shaders left to compile 2
+[2021.04.07-18.47.35:749][940]LogShaderCompilers: Display: Worker (4/21): shaders left to compile 1
+[2021.04.07-18.47.35:749][940]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark
+[2021.04.07-18.47.35:749][940]Cmd: MAP LOAD FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.07-18.47.35:749][940]LightingResults: New page: Lighting Build
+[2021.04.07-18.47.35:749][940]LoadErrors: New page: Loading map: Fear_Of_The_Dark.umap
+[2021.04.07-18.47.35:784][940]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.47.35:784][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.47.35:819][940]LogWorld: UWorld::CleanupWorld for Fear_Of_The_Dark_Revamp, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.47.35:819][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.47.35:820][940]MapCheck: New page: Map Check
+[2021.04.07-18.47.35:820][940]LightingResults: New page: Lighting Build
+[2021.04.07-18.47.35:836][940]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.07-18.47.35:846][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2021.04.07-18.47.35:847][940]LogAudio: Display: Audio Device (ID: 1) registered with world 'Fear_Of_The_Dark'.
+[2021.04.07-18.47.35:850][940]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.07-18.47.35:850][940]LogAIModule: Creating AISystem for world Fear_Of_The_Dark
+[2021.04.07-18.47.35:870][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.04.07-18.47.35:875][940]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.07-18.47.35:875][940]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
+[2021.04.07-18.47.35:875][940]LogFileHelpers: Loading map 'Fear_Of_The_Dark' took 0.126
+[2021.04.07-18.47.44:363][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.04.07-18.47.44:642][939]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Run_Through_The_Maze_-_Scary_Horror_Music_Royalty_Free_-_No_Copyraight...
+[2021.04.07-18.47.44:652][939]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/StarterContent/Audio/Run_Through_The_Maze_-_Scary_Horror_Music_Royalty_Free_-_No_Copyraight.Run_Through_The_Maze_-_Scary_Horror_Music_Royalty_Free_-_No_Copyraight will be modified from 40 to 40.
+[2021.04.07-18.47.46:221][939]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 21635072 while cooking SoundWave /Game/StarterContent/Audio/Run_Through_The_Maze_-_Scary_Horror_Music_Royalty_Free_-_No_Copyraight.Run_Through_The_Maze_-_Scary_Horror_Music_Royalty_Free_-_No_Copyraight.
+[2021.04.07-18.47.46:690][939]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.47.46:690][939]Cmd: MAP LOAD FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.07-18.47.46:690][939]LightingResults: New page: Lighting Build
+[2021.04.07-18.47.46:690][939]LoadErrors: New page: Loading map: Claustrophobia.umap
+[2021.04.07-18.47.46:734][939]LogWorld: UWorld::CleanupWorld for Fear_Of_The_Dark, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.47.46:734][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.47.46:734][939]MapCheck: New page: Map Check
+[2021.04.07-18.47.46:734][939]LightingResults: New page: Lighting Build
+[2021.04.07-18.47.46:752][939]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.07-18.47.46:755][939]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.04.07-18.47.46:756][939]LogAudio: Display: Audio Device (ID: 1) registered with world 'Claustrophobia'.
+[2021.04.07-18.47.46:762][939]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Claustrophobia.Claustrophobia:PersistentLevel.armInWall_animation_Anim_6.SkeletalMeshComponent0' Bone: 'handMain' 
+[2021.04.07-18.47.46:771][939]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.07-18.47.46:771][939]LogAIModule: Creating AISystem for world Claustrophobia
+[2021.04.07-18.47.46:821][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.04.07-18.47.46:826][939]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.07-18.47.46:826][939]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2021.04.07-18.47.46:826][939]LogFileHelpers: Loading map 'Claustrophobia' took 0.137
+[2021.04.07-18.47.48:526][133]LogObjectTools: Deleting 1 worlds: /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark
+[2021.04.07-18.47.48:526][133]LogObjectTools: Currently 9 active worlds: /Game/Levels/Claustrophobia.Claustrophobia, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_13, /Engine/Transient.World_14, /Engine/Transient.World_16, /Engine/Transient.World_17
+[2021.04.07-18.47.48:543][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2021.04.07-18.47.48:658][133]LogSlate: Took 0.000105 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.04.07-18.47.56:115][133]LogSlate: Window 'Delete Assets' being destroyed
+[2021.04.07-18.47.56:126][133]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark
+[2021.04.07-18.47.59:448][133]LogWorld: UWorld::CleanupWorld for Fear_Of_The_Dark, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.47.59:448][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.47.59:562][133]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.04.07-18.47.59:581][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.04.07-18.47.59:597][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.07-18.47.59:754][133]SourceControl: Error: Updated 0 paths from the index
+[2021.04.07-18.47.59:866][133]SourceControl: rm 'Phobias/Content/Levels/Fear_Of_The_Dark.umap'
+[2021.04.07-18.48.03:222][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.07-18.48.03:232][516]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.48.03:232][516]Cmd: MAP LOAD FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.07-18.48.03:232][516]LightingResults: New page: Lighting Build
+[2021.04.07-18.48.03:232][516]LoadErrors: New page: Loading map: Claustrophobia.umap
+[2021.04.07-18.48.03:234][516]LogWorld: UWorld::CleanupWorld for Claustrophobia, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.48.03:234][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.48.03:234][516]MapCheck: New page: Map Check
+[2021.04.07-18.48.03:234][516]LightingResults: New page: Lighting Build
+[2021.04.07-18.48.03:251][516]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.07-18.48.03:256][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.04.07-18.48.03:340][516]LogAudio: Display: Audio Device (ID: 1) registered with world 'Claustrophobia'.
+[2021.04.07-18.48.03:340][516]LogAIModule: Creating AISystem for world Claustrophobia
+[2021.04.07-18.48.03:347][516]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Claustrophobia.Claustrophobia:PersistentLevel.armInWall_animation_Anim_6.SkeletalMeshComponent0' Bone: 'handMain' 
+[2021.04.07-18.48.03:354][516]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.07-18.48.03:393][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.04.07-18.48.03:399][516]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.07-18.48.03:399][516]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.17ms to complete.
+[2021.04.07-18.48.03:399][516]LogFileHelpers: Loading map 'Claustrophobia' took 0.167
+[2021.04.07-18.48.05:999][786]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.07-18.48.06:026][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.07-18.48.06:026][786]PIE: New page: PIE session: Claustrophobia (Apr 7, 2021, 10:48:06 AM)
+[2021.04.07-18.48.06:027][786]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.04.07-18.48.06:028][786]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.04.07-18.48.06:029][786]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Claustrophobia
+[2021.04.07-18.48.06:075][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046334s)
+[2021.04.07-18.48.06:076][786]LogAIModule: Creating AISystem for world Claustrophobia
+[2021.04.07-18.48.06:076][786]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2021.04.07-18.48.06:076][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Claustrophobia.Claustrophobia to /Game/Levels/UEDPIE_0_Claustrophobia.Claustrophobia (0.047724s)
+[2021.04.07-18.48.06:094][786]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.04.07-18.48.06:096][786]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.04.07-18.48.06:096][786]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.07-18.48.06:096][786]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.07-18.48.06:096][786]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.07-18.48.06:096][786]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.07-18.48.06:096][786]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.07-18.48.06:096][786]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.07-18.48.06:096][786]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.07-18.48.06:096][786]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.07-18.48.06:097][786]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.07-18.48.06:097][786]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.07-18.48.06:099][786]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.07-18.48.06:099][786]LogAudioMixer: Display: 1: FrontRight
+[2021.04.07-18.48.06:099][786]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.07-18.48.06:099][786]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.07-18.48.06:099][786]LogAudioMixer: Display: 4: BackLeft
+[2021.04.07-18.48.06:099][786]LogAudioMixer: Display: 5: BackRight
+[2021.04.07-18.48.06:099][786]LogAudioMixer: Display: 6: SideLeft
+[2021.04.07-18.48.06:099][786]LogAudioMixer: Display: 7: SideRight
+[2021.04.07-18.48.06:116][786]LogAudioMixer: Display: Using Audio Device Speakers (7.1 Surround Sound)
+[2021.04.07-18.48.06:117][786]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.07-18.48.06:117][786]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.07-18.48.06:117][786]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.07-18.48.06:117][786]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.07-18.48.06:117][786]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.07-18.48.06:117][786]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.07-18.48.06:134][786]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.07-18.48.06:134][786]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.07-18.48.06:134][786]LogInit: FAudioDevice initialized.
+[2021.04.07-18.48.06:134][786]LogAudio: Display: Audio Device (ID: 2) registered with world 'Claustrophobia'.
+[2021.04.07-18.48.06:143][786]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.07-18.48.06:148][786]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Claustrophobia.Claustrophobia:PersistentLevel.armInWall_animation_Anim_6.SkeletalMeshComponent0' Bone: 'handMain' 
+[2021.04.07-18.48.06:149][786]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Claustrophobia.Claustrophobia up for play (max tick rate 0) at 2021.04.07-14.48.06
+[2021.04.07-18.48.06:150][786]LogWorld: Bringing up level for play took: 0.006506
+[2021.04.07-18.48.06:150][786]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.04.07-18.48.06:158][786]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.04.07-18.48.06:174][786]LogBlueprintUserMessages: [InventoryComponent] Pre Prepare
+[2021.04.07-18.48.06:174][786]LogBlueprintUserMessages: [InventoryComponent] Prepared
+[2021.04.07-18.48.06:174][786]LogBlueprintUserMessages: [InventoryComponent] Whats Next
+[2021.04.07-18.48.06:175][786]PIE: Server logged in
+[2021.04.07-18.48.06:176][786]PIE: Play in editor total start time 0.173 seconds.
+[2021.04.07-18.48.07:147][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-18.48.07:147][807]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Claustrophobia
+[2021.04.07-18.48.07:148][807]LogWorld: UWorld::CleanupWorld for Claustrophobia, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.48.07:149][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.48.07:205][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.07-18.48.07:211][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.48.07:231][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-18.48.07:232][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-18.48.07:233][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-18.48.07:278][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.04.07-18.48.07:318][808]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.04.07-18.48.11:238][999]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Claustrophobia.Claustrophobia:PersistentLevel.Claustrophobia
+[2021.04.07-18.48.19:351][359]LogSlate: Window 'Claustrophobia' being destroyed
+[2021.04.07-18.48.21:142][569]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.48.21:142][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.48.51:499][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2021.04.07-18.48.51:615][114]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Fear_Of_The_Dark_Revamp.Fear_Of_The_Dark_Revamp
+[2021.04.07-18.48.51:615][114]Cmd: MAP LOAD FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark_Revamp.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.07-18.48.51:615][114]LightingResults: New page: Lighting Build
+[2021.04.07-18.48.51:615][114]LoadErrors: New page: Loading map: Fear_Of_The_Dark_Revamp.umap
+[2021.04.07-18.48.51:664][114]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.48.51:664][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.48.51:702][114]LogWorld: UWorld::CleanupWorld for Claustrophobia, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.48.51:702][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.48.51:702][114]MapCheck: New page: Map Check
+[2021.04.07-18.48.51:703][114]LightingResults: New page: Lighting Build
+[2021.04.07-18.48.51:722][114]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.07-18.48.51:732][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.04.07-18.48.51:734][114]LogAudio: Display: Audio Device (ID: 1) registered with world 'Fear_Of_The_Dark_Revamp'.
+[2021.04.07-18.48.51:749][114]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.07-18.48.51:749][114]LogAIModule: Creating AISystem for world Fear_Of_The_Dark_Revamp
+[2021.04.07-18.48.51:773][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.04.07-18.48.51:778][114]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.07-18.48.51:779][114]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.153ms to complete.
+[2021.04.07-18.48.51:779][114]LogFileHelpers: Loading map 'Fear_Of_The_Dark_Revamp' took 0.163
+[2021.04.07-18.48.58:615][909]LogContentBrowser: Attempting asset rename: Fear_Of_The_Dark_Revamp -> Fear_Of_The_Dark_Revamp
+[2021.04.07-18.49.02:270][323]LogContentBrowser: Attempting asset rename: Fear_Of_The_Dark_Revamp -> Fear_Of_The_Dark_Revamp
+[2021.04.07-18.49.05:935][753]LogContentBrowser: Attempting asset rename: Fear_Of_The_Dark_Revamp -> Fear_Of_The_Dark
+[2021.04.07-18.49.06:453][753]LogMetaData: Removing '/Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark_C' ref from Metadata '/Game/Levels/Fear_Of_The_Dark_Revamp.PackageMetaData'
+[2021.04.07-18.49.06:454][753]LogMetaData: Removing '/Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark:PersistentLevel.Fear_Of_The_Dark.LoadLevelData.K2Node_FunctionEntry_0' ref from Metadata '/Game/Levels/Fear_Of_The_Dark_Revamp.PackageMetaData'
+[2021.04.07-18.49.06:454][753]LogMetaData: Removing '/Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark:PersistentLevel.Fear_Of_The_Dark.SaveLevelData.K2Node_FunctionEntry_0' ref from Metadata '/Game/Levels/Fear_Of_The_Dark_Revamp.PackageMetaData'
+[2021.04.07-18.49.06:454][753]LogMetaData: Removing '/Game/Levels/Fear_Of_The_Dark.SKEL_Fear_Of_The_Dark_C:ReceiveBeginPlay' ref from Metadata '/Game/Levels/Fear_Of_The_Dark_Revamp.PackageMetaData'
+[2021.04.07-18.49.06:454][753]LogMetaData: Removing '/Game/Levels/Fear_Of_The_Dark.SKEL_Fear_Of_The_Dark_C:DoorOpened' ref from Metadata '/Game/Levels/Fear_Of_The_Dark_Revamp.PackageMetaData'
+[2021.04.07-18.49.06:454][753]LogMetaData: Removing '/Game/Levels/Fear_Of_The_Dark.SKEL_Fear_Of_The_Dark_C' ref from Metadata '/Game/Levels/Fear_Of_The_Dark_Revamp.PackageMetaData'
+[2021.04.07-18.49.06:454][753]LogMetaData: Removing '/Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark_C:ReceiveBeginPlay' ref from Metadata '/Game/Levels/Fear_Of_The_Dark_Revamp.PackageMetaData'
+[2021.04.07-18.49.06:487][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.07-18.49.06:563][753]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark4BDCF82F421FB34C43FA55952F7EF701.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark.umap'
+[2021.04.07-18.49.06:723][753]LogFileHelpers: Saving map 'Fear_Of_The_Dark' took 0.255
+[2021.04.07-18.49.06:724][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Fear_Of_The_Dark_Revamp" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark_Revamp.umap" SILENT=true
+[2021.04.07-18.49.06:725][753]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark_Revamp9AE5E2EE48CB1F59BA8C8EA4E60CD5F2.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark_Revamp.umap'
+[2021.04.07-18.49.06:990][753]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.07-18.49.06:990][753]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/Fear_Of_The_Dark_Revamp.Default__Fear_Of_The_Dark_Revamp_C
+[2021.04.07-18.49.06:990][753]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/Fear_Of_The_Dark_Revamp.Fear_Of_The_Dark_Revamp_C
+[2021.04.07-18.49.06:990][753]LogContentValidation: Display: Validating ObjectRedirector /Game/Levels/Fear_Of_The_Dark_Revamp.Fear_Of_The_Dark_Revamp
+[2021.04.07-18.49.06:990][753]LogContentValidation: Display: Validating World /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark
+[2021.04.07-18.49.09:145][963]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2021.04.07-18.49.09:182][963]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Main_Menu.Main_Menu
+[2021.04.07-18.49.09:182][963]Cmd: MAP LOAD FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Main_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.07-18.49.09:182][963]LightingResults: New page: Lighting Build
+[2021.04.07-18.49.09:182][963]LoadErrors: New page: Loading map: Main_Menu.umap
+[2021.04.07-18.49.09:205][963]LogWorld: UWorld::CleanupWorld for Fear_Of_The_Dark, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.49.09:205][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.49.09:206][963]MapCheck: New page: Map Check
+[2021.04.07-18.49.09:206][963]LightingResults: New page: Lighting Build
+[2021.04.07-18.49.09:227][963]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.07-18.49.09:257][963]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2021.04.07-18.49.09:258][963]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Menu'.
+[2021.04.07-18.49.09:259][963]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.07-18.49.09:259][963]LogAIModule: Creating AISystem for world Main_Menu
+[2021.04.07-18.49.09:278][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.04.07-18.49.09:283][963]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.07-18.49.09:283][963]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2021.04.07-18.49.09:283][963]LogFileHelpers: Loading map 'Main_Menu' took 0.101
+[2021.04.07-18.49.25:317][696]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG_MainMenu/MainMenu.MainMenu
+[2021.04.07-18.49.37:233][977]BlueprintLog: New page: Compile MainMenu
+[2021.04.07-18.49.37:268][977]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.04.07-18.49.37:361][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG_MainMenu/MainMenu" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/UMG_MainMenu/MainMenu.uasset" SILENT=true
+[2021.04.07-18.49.37:378][977]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/MainMenu6617D1AC42B1D3ECD1AF8994D52E259F.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/UMG_MainMenu/MainMenu.uasset'
+[2021.04.07-18.49.37:392][977]AssetCheck: New page: Asset Save: MainMenu
+[2021.04.07-18.49.37:392][977]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG_MainMenu/MainMenu.MainMenu
+[2021.04.07-18.49.37:546][992]BlueprintLog: New page: Compile MainMenu
+[2021.04.07-18.49.37:592][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.04.07-18.49.38:229][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG_MainMenu/MainMenu" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/UMG_MainMenu/MainMenu.uasset" SILENT=true
+[2021.04.07-18.49.38:246][ 49]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/MainMenu728094B245884736EE1950AD6E234B18.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/UMG_MainMenu/MainMenu.uasset'
+[2021.04.07-18.49.38:255][ 49]AssetCheck: New page: Asset Save: MainMenu
+[2021.04.07-18.49.38:255][ 49]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG_MainMenu/MainMenu.MainMenu
+[2021.04.07-18.49.38:578][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UMG_MainMenu/MainMenu" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/UMG_MainMenu/MainMenu.uasset" SILENT=true
+[2021.04.07-18.49.38:595][ 76]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/MainMenuE28CDAA3431ACFFD46ABA8BF9E8AC1CD.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/UMG_MainMenu/MainMenu.uasset'
+[2021.04.07-18.49.38:608][ 76]AssetCheck: New page: Asset Save: MainMenu
+[2021.04.07-18.49.38:608][ 76]LogContentValidation: Display: Validating WidgetBlueprint /Game/UMG_MainMenu/MainMenu.MainMenu
+[2021.04.07-18.49.39:416][168]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.49.39:416][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.49.39:424][168]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.49.39:424][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.49.48:086][102]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BluePrints/GameOver/GameOverWidget.GameOverWidget
+[2021.04.07-18.49.53:655][661]BlueprintLog: New page: Compile GameOverWidget
+[2021.04.07-18.49.53:695][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.04.07-18.49.53:791][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/GameOver/GameOverWidget" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/GameOver/GameOverWidget.uasset" SILENT=true
+[2021.04.07-18.49.53:799][661]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/GameOverWidget5A40F02348A14BF4193FC0ACBB33BC7B.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/GameOver/GameOverWidget.uasset'
+[2021.04.07-18.49.53:809][661]AssetCheck: New page: Asset Save: GameOverWidget
+[2021.04.07-18.49.53:809][661]LogContentValidation: Display: Validating WidgetBlueprint /Game/BluePrints/GameOver/GameOverWidget.GameOverWidget
+[2021.04.07-18.49.54:376][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/GameOver/GameOverWidget" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/GameOver/GameOverWidget.uasset" SILENT=true
+[2021.04.07-18.49.54:383][717]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/GameOverWidget470917664FD70237F77A9498CC5BF347.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/GameOver/GameOverWidget.uasset'
+[2021.04.07-18.49.54:392][717]AssetCheck: New page: Asset Save: GameOverWidget
+[2021.04.07-18.49.54:392][717]LogContentValidation: Display: Validating WidgetBlueprint /Game/BluePrints/GameOver/GameOverWidget.GameOverWidget
+[2021.04.07-18.50.06:516][147]BlueprintLog: New page: Compile GameOverWidget
+[2021.04.07-18.50.06:557][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.04.07-18.50.06:650][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/GameOver/GameOverWidget" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/GameOver/GameOverWidget.uasset" SILENT=true
+[2021.04.07-18.50.06:658][147]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/GameOverWidget046C517640ADC721AC840FA065ED233D.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/GameOver/GameOverWidget.uasset'
+[2021.04.07-18.50.06:669][147]AssetCheck: New page: Asset Save: GameOverWidget
+[2021.04.07-18.50.06:669][147]LogContentValidation: Display: Validating WidgetBlueprint /Game/BluePrints/GameOver/GameOverWidget.GameOverWidget
+[2021.04.07-18.50.06:884][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/GameOver/GameOverWidget" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/GameOver/GameOverWidget.uasset" SILENT=true
+[2021.04.07-18.50.06:892][162]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/GameOverWidget14B962EF475D13BE7B6D0FBE9E632D0C.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/GameOver/GameOverWidget.uasset'
+[2021.04.07-18.50.06:903][162]AssetCheck: New page: Asset Save: GameOverWidget
+[2021.04.07-18.50.06:903][162]LogContentValidation: Display: Validating WidgetBlueprint /Game/BluePrints/GameOver/GameOverWidget.GameOverWidget
+[2021.04.07-18.50.09:825][474]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.07-18.50.09:832][474]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.07-18.50.09:832][474]PIE: New page: PIE session: Main_Menu (Apr 7, 2021, 10:50:09 AM)
+[2021.04.07-18.50.09:832][474]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main_Menu
+[2021.04.07-18.50.09:833][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001146s)
+[2021.04.07-18.50.09:834][474]LogAIModule: Creating AISystem for world Main_Menu
+[2021.04.07-18.50.09:834][474]LogPlayLevel: PIE: World Init took: (0.000922s)
+[2021.04.07-18.50.09:834][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Menu.Main_Menu to /Game/Levels/UEDPIE_0_Main_Menu.Main_Menu (0.002151s)
+[2021.04.07-18.50.09:862][474]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.04.07-18.50.09:862][474]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.04.07-18.50.09:863][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.07-18.50.09:863][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.07-18.50.09:863][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.07-18.50.09:863][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.07-18.50.09:863][474]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.07-18.50.09:863][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.07-18.50.09:863][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.07-18.50.09:863][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.07-18.50.09:863][474]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.07-18.50.09:863][474]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.07-18.50.09:865][474]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.07-18.50.09:865][474]LogAudioMixer: Display: 1: FrontRight
+[2021.04.07-18.50.09:865][474]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.07-18.50.09:866][474]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.07-18.50.09:866][474]LogAudioMixer: Display: 4: BackLeft
+[2021.04.07-18.50.09:866][474]LogAudioMixer: Display: 5: BackRight
+[2021.04.07-18.50.09:866][474]LogAudioMixer: Display: 6: SideLeft
+[2021.04.07-18.50.09:866][474]LogAudioMixer: Display: 7: SideRight
+[2021.04.07-18.50.09:881][474]LogAudioMixer: Display: Using Audio Device Speakers (7.1 Surround Sound)
+[2021.04.07-18.50.09:882][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.07-18.50.09:882][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.07-18.50.09:882][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.07-18.50.09:882][474]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.07-18.50.09:882][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.07-18.50.09:882][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.07-18.50.09:898][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.07-18.50.09:898][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.07-18.50.09:898][474]LogInit: FAudioDevice initialized.
+[2021.04.07-18.50.09:898][474]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main_Menu'.
+[2021.04.07-18.50.09:906][474]LogLoad: Game class is 'MainMenuUMG_C'
+[2021.04.07-18.50.09:907][474]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2021.04.07-14.50.09
+[2021.04.07-18.50.09:907][474]LogWorld: Bringing up level for play took: 0.000243
+[2021.04.07-18.50.09:907][474]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.04.07-18.50.09:909][474]PIE: Server logged in
+[2021.04.07-18.50.09:910][474]PIE: Play in editor total start time 0.08 seconds.
+[2021.04.07-18.50.10:918][591]LogNet: Browse: /Game/Levels/Fear_Of_The_Dark
+[2021.04.07-18.50.10:918][591]LogLoad: LoadMap: /Game/Levels/Fear_Of_The_Dark
+[2021.04.07-18.50.10:918][591]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main_Menu
+[2021.04.07-18.50.10:918][591]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.50.10:918][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.50.10:976][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.07-18.50.10:979][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.04.07-18.50.11:014][591]LogAudio: Display: Audio Device (ID: 3) registered with world 'Fear_Of_The_Dark'.
+[2021.04.07-18.50.11:015][591]LogAIModule: Creating AISystem for world Fear_Of_The_Dark
+[2021.04.07-18.50.11:015][591]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.07-18.50.11:026][591]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark up for play (max tick rate 0) at 2021.04.07-14.50.11
+[2021.04.07-18.50.11:027][591]LogWorld: Bringing up level for play took: 0.011420
+[2021.04.07-18.50.11:038][591]LogBlueprintUserMessages: [InventoryComponent] Pre Prepare
+[2021.04.07-18.50.11:038][591]LogBlueprintUserMessages: [InventoryComponent] Prepared
+[2021.04.07-18.50.11:038][591]LogBlueprintUserMessages: [InventoryComponent] Whats Next
+[2021.04.07-18.50.11:038][591]LogLoad: Took 0.120602 seconds to LoadMap(/Game/Levels/Fear_Of_The_Dark)
+[2021.04.07-18.50.13:176][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-18.50.13:177][775]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-18.50.13:177][775]LogWorld: UWorld::CleanupWorld for Fear_Of_The_Dark, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.50.13:178][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.50.13:185][775]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.07-18.50.13:192][775]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.50.13:213][775]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.07-18.50.13:213][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-18.50.13:215][775]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-18.50.13:232][775]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-18.50.13:237][775]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.04.07-18.50.13:257][776]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.04.07-18.50.17:940][300]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.50.17:940][300]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.50.18:114][311]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.50.18:114][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.50.18:122][311]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.50.18:122][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.50.21:546][686]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Main_Menu.Main_Menu:PersistentLevel.Main_Menu
+[2021.04.07-18.50.25:745][125]LogSlate: Window 'Main_Menu' being destroyed
+[2021.04.07-18.50.30:083][633]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.50.30:083][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.50.34:314][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.04.07-18.50.34:386][ 79]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark
+[2021.04.07-18.50.34:386][ 79]Cmd: MAP LOAD FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.07-18.50.34:386][ 79]LightingResults: New page: Lighting Build
+[2021.04.07-18.50.34:386][ 79]LoadErrors: New page: Loading map: Fear_Of_The_Dark.umap
+[2021.04.07-18.50.34:435][ 79]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.50.34:435][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.50.34:435][ 79]MapCheck: New page: Map Check
+[2021.04.07-18.50.34:435][ 79]LightingResults: New page: Lighting Build
+[2021.04.07-18.50.34:447][ 79]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.07-18.50.34:476][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.04.07-18.50.34:476][ 79]LogAudio: Display: Audio Device (ID: 1) registered with world 'Fear_Of_The_Dark'.
+[2021.04.07-18.50.34:491][ 79]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.07-18.50.34:491][ 79]LogAIModule: Creating AISystem for world Fear_Of_The_Dark
+[2021.04.07-18.50.34:508][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.04.07-18.50.34:513][ 79]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.07-18.50.34:513][ 79]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.146ms to complete.
+[2021.04.07-18.50.34:513][ 79]LogFileHelpers: Loading map 'Fear_Of_The_Dark' took 0.127
+[2021.04.07-18.50.40:061][684]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark:PersistentLevel.Fear_Of_The_Dark
+[2021.04.07-18.50.42:344][854]LogSlate: Window 'Fear_Of_The_Dark' being destroyed
+[2021.04.07-18.51.14:970][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.04.07-18.51.15:045][227]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.51.15:046][227]Cmd: MAP LOAD FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.07-18.51.15:046][227]LightingResults: New page: Lighting Build
+[2021.04.07-18.51.15:046][227]LoadErrors: New page: Loading map: Claustrophobia.umap
+[2021.04.07-18.51.15:094][227]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.51.15:094][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.51.15:130][227]LogWorld: UWorld::CleanupWorld for Fear_Of_The_Dark, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.51.15:130][227]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.51.15:131][227]MapCheck: New page: Map Check
+[2021.04.07-18.51.15:131][227]LightingResults: New page: Lighting Build
+[2021.04.07-18.51.15:145][227]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.07-18.51.15:153][227]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.04.07-18.51.15:154][227]LogAudio: Display: Audio Device (ID: 1) registered with world 'Claustrophobia'.
+[2021.04.07-18.51.15:160][227]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/Claustrophobia.Claustrophobia:PersistentLevel.armInWall_animation_Anim_6.SkeletalMeshComponent0' Bone: 'handMain' 
+[2021.04.07-18.51.15:167][227]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.07-18.51.15:167][227]LogAIModule: Creating AISystem for world Claustrophobia
+[2021.04.07-18.51.15:201][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2021.04.07-18.51.15:209][227]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.07-18.51.15:210][227]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.181ms to complete.
+[2021.04.07-18.51.15:210][227]LogFileHelpers: Loading map 'Claustrophobia' took 0.164
+[2021.04.07-18.51.19:377][709]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Claustrophobia.Claustrophobia:PersistentLevel.Claustrophobia
+[2021.04.07-18.51.21:801][943]LogSlate: Window 'Claustrophobia' being destroyed
+[2021.04.07-18.51.25:849][417]BlueprintLog: New page: Compile Claustrophobia
+[2021.04.07-18.51.25:867][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.04.07-18.51.25:966][417]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.04.07-18.51.26:116][417]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/ClaustrophobiaD815802A4733856BC08002A3C2DE90EF.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap'
+[2021.04.07-18.51.26:122][417]LogFileHelpers: Saving map 'Claustrophobia' took 0.172
+[2021.04.07-18.51.26:131][417]AssetCheck: New page: Asset Save: Claustrophobia
+[2021.04.07-18.51.26:131][417]LogContentValidation: Display: Validating World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.51.26:369][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.04.07-18.51.26:521][434]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/ClaustrophobiaEEE0F926470E8427FBF871BA46AAB6ED.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap'
+[2021.04.07-18.51.26:526][434]LogFileHelpers: Saving map 'Claustrophobia' took 0.174
+[2021.04.07-18.51.26:534][434]AssetCheck: New page: Asset Save: Claustrophobia
+[2021.04.07-18.51.26:534][434]LogContentValidation: Display: Validating World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.52.16:873][133]BlueprintLog: New page: Compile Claustrophobia
+[2021.04.07-18.52.16:908][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.04.07-18.52.17:007][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.04.07-18.52.17:159][133]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Claustrophobia2C8F20C44D0D50B17A344E85544C572C.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap'
+[2021.04.07-18.52.17:165][133]LogFileHelpers: Saving map 'Claustrophobia' took 0.173
+[2021.04.07-18.52.17:173][133]AssetCheck: New page: Asset Save: Claustrophobia
+[2021.04.07-18.52.17:173][133]LogContentValidation: Display: Validating World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.52.17:392][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.07-18.52.17:543][148]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Claustrophobia6AA14A4343EF22A0F6FE27B178DD8C3D.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap'
+[2021.04.07-18.52.17:549][148]LogFileHelpers: Saving map 'Claustrophobia' took 0.172
+[2021.04.07-18.52.17:559][148]AssetCheck: New page: Asset Save: Claustrophobia
+[2021.04.07-18.52.17:559][148]LogContentValidation: Display: Validating World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.52.19:152][327]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.07-18.52.19:160][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.07-18.52.19:160][327]PIE: New page: PIE session: Claustrophobia (Apr 7, 2021, 10:52:19 AM)
+[2021.04.07-18.52.19:194][327]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Claustrophobia
+[2021.04.07-18.52.19:239][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044858s)
+[2021.04.07-18.52.19:240][327]LogAIModule: Creating AISystem for world Claustrophobia
+[2021.04.07-18.52.19:240][327]LogPlayLevel: PIE: World Init took: (0.001109s)
+[2021.04.07-18.52.19:240][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Claustrophobia.Claustrophobia to /Game/Levels/UEDPIE_0_Claustrophobia.Claustrophobia (0.046130s)
+[2021.04.07-18.52.19:256][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.04.07-18.52.19:258][327]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.04.07-18.52.19:258][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.07-18.52.19:258][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.07-18.52.19:258][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.07-18.52.19:258][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.07-18.52.19:258][327]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.07-18.52.19:258][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.07-18.52.19:258][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.07-18.52.19:258][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.07-18.52.19:258][327]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.07-18.52.19:258][327]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.07-18.52.19:261][327]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.07-18.52.19:261][327]LogAudioMixer: Display: 1: FrontRight
+[2021.04.07-18.52.19:261][327]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.07-18.52.19:261][327]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.07-18.52.19:261][327]LogAudioMixer: Display: 4: BackLeft
+[2021.04.07-18.52.19:261][327]LogAudioMixer: Display: 5: BackRight
+[2021.04.07-18.52.19:261][327]LogAudioMixer: Display: 6: SideLeft
+[2021.04.07-18.52.19:261][327]LogAudioMixer: Display: 7: SideRight
+[2021.04.07-18.52.19:277][327]LogAudioMixer: Display: Using Audio Device Speakers (7.1 Surround Sound)
+[2021.04.07-18.52.19:277][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.07-18.52.19:277][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.07-18.52.19:277][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.07-18.52.19:277][327]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.07-18.52.19:277][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.07-18.52.19:277][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.07-18.52.19:292][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.07-18.52.19:292][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.07-18.52.19:292][327]LogInit: FAudioDevice initialized.
+[2021.04.07-18.52.19:292][327]LogAudio: Display: Audio Device (ID: 4) registered with world 'Claustrophobia'.
+[2021.04.07-18.52.19:303][327]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.07-18.52.19:308][327]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Claustrophobia.Claustrophobia:PersistentLevel.armInWall_animation_Anim_6.SkeletalMeshComponent0' Bone: 'handMain' 
+[2021.04.07-18.52.19:309][327]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Claustrophobia.Claustrophobia up for play (max tick rate 0) at 2021.04.07-14.52.19
+[2021.04.07-18.52.19:310][327]LogWorld: Bringing up level for play took: 0.006523
+[2021.04.07-18.52.19:310][327]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.04.07-18.52.19:314][327]LogBlueprintUserMessages: [InventoryComponent] Pre Prepare
+[2021.04.07-18.52.19:314][327]LogBlueprintUserMessages: [InventoryComponent] Prepared
+[2021.04.07-18.52.19:314][327]LogBlueprintUserMessages: [InventoryComponent] Whats Next
+[2021.04.07-18.52.19:314][327]PIE: Server logged in
+[2021.04.07-18.52.19:315][327]PIE: Play in editor total start time 0.157 seconds.
+[2021.04.07-18.52.26:466][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-18.52.26:467][857]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Claustrophobia
+[2021.04.07-18.52.26:467][857]LogWorld: UWorld::CleanupWorld for Claustrophobia, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.52.26:468][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.52.26:474][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.07-18.52.26:490][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.52.26:504][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-18.52.26:505][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-18.52.26:506][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-18.52.26:529][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.04.07-18.52.26:561][858]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.04.07-18.52.59:731][886]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/BluePrints/SaveSystem/PlayerSaveData.PlayerSaveData
+[2021.04.07-18.53.05:649][352]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/SaveSystem/SaveBP.SaveBP
+[2021.04.07-18.53.38:157][741]BlueprintLog: New page: Compile Claustrophobia
+[2021.04.07-18.53.38:158][741]LogBlueprint: Error: [AssetLog] C:\Users\edwin\Documents\Github\Phobia-Third-Person\Phobias\Content\Levels\Claustrophobia.umap: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To SaveBP  to imply a specific type.
+[2021.04.07-18.53.38:159][741]LogBlueprint: Error: [AssetLog] C:\Users\edwin\Documents\Github\Phobia-Third-Person\Phobias\Content\Levels\Claustrophobia.umap: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2021.04.07-18.53.38:195][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.04.07-18.53.54:546][661]BlueprintLog: New page: Compile Claustrophobia
+[2021.04.07-18.53.54:547][661]LogBlueprint: Warning: [AssetLog] C:\Users\edwin\Documents\Github\Phobia-Third-Person\Phobias\Content\Levels\Claustrophobia.umap: [Compiler] 'Save BP' does not inherit from 'Game Instance' ( Cast To SaveBP  would always fail).
+[2021.04.07-18.53.54:584][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.04.07-18.54.07:130][123]BlueprintLog: New page: Compile Claustrophobia
+[2021.04.07-18.54.07:131][123]LogBlueprint: Warning: [AssetLog] C:\Users\edwin\Documents\Github\Phobia-Third-Person\Phobias\Content\Levels\Claustrophobia.umap: [Compiler] 'Save BP' does not inherit from 'Game State Base' ( Cast To SaveBP  would always fail).
+[2021.04.07-18.54.07:170][123]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.04.07-18.55.10:159][297]BlueprintLog: New page: Compile Claustrophobia
+[2021.04.07-18.55.10:197][297]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.04.07-18.55.10:304][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.04.07-18.55.10:453][297]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Claustrophobia4A4857CF48CAEB4565D44395BC9E256A.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap'
+[2021.04.07-18.55.10:459][297]LogFileHelpers: Saving map 'Claustrophobia' took 0.172
+[2021.04.07-18.55.10:468][297]AssetCheck: New page: Asset Save: Claustrophobia
+[2021.04.07-18.55.10:468][297]LogContentValidation: Display: Validating World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.55.11:757][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.04.07-18.55.11:908][433]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Claustrophobia6E31E3F54FAF3847FA6F4CB600DC43D2.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap'
+[2021.04.07-18.55.11:914][433]LogFileHelpers: Saving map 'Claustrophobia' took 0.174
+[2021.04.07-18.55.11:921][433]AssetCheck: New page: Asset Save: Claustrophobia
+[2021.04.07-18.55.11:921][433]LogContentValidation: Display: Validating World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.55.38:774][565]BlueprintLog: New page: Compile Claustrophobia
+[2021.04.07-18.55.38:775][565]LogBlueprint: Error: [AssetLog] C:\Users\edwin\Documents\Github\Phobia-Third-Person\Phobias\Content\Levels\Claustrophobia.umap: [Compiler] This blueprint (self) is not a SaveBP_C, therefore ' Target ' must have a connection.
+[2021.04.07-18.55.38:775][565]LogBlueprint: Error: [AssetLog] C:\Users\edwin\Documents\Github\Phobia-Third-Person\Phobias\Content\Levels\Claustrophobia.umap: [Compiler] Variable node  Set PlayerData  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2021.04.07-18.55.38:812][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.04.07-18.56.21:194][482]BlueprintLog: New page: Compile Claustrophobia
+[2021.04.07-18.56.21:231][482]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.04.07-18.56.21:330][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.04.07-18.56.21:480][482]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Claustrophobia7F34B2534723246DAA3E7F86BC8F4A62.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap'
+[2021.04.07-18.56.21:486][482]LogFileHelpers: Saving map 'Claustrophobia' took 0.173
+[2021.04.07-18.56.21:495][482]AssetCheck: New page: Asset Save: Claustrophobia
+[2021.04.07-18.56.21:495][482]LogContentValidation: Display: Validating World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.56.21:698][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2021.04.07-18.56.21:850][495]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/ClaustrophobiaCD041DF0412DCFAC570534AFC2A23513.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap'
+[2021.04.07-18.56.21:856][495]LogFileHelpers: Saving map 'Claustrophobia' took 0.175
+[2021.04.07-18.56.21:864][495]AssetCheck: New page: Asset Save: Claustrophobia
+[2021.04.07-18.56.21:864][495]LogContentValidation: Display: Validating World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.57.51:285][972]BlueprintLog: New page: Compile Claustrophobia
+[2021.04.07-18.57.51:322][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.04.07-18.57.51:421][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.04.07-18.57.51:573][972]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/ClaustrophobiaD63E8EFC4838E50B2D76CCB3A9DFACF1.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap'
+[2021.04.07-18.57.51:579][972]LogFileHelpers: Saving map 'Claustrophobia' took 0.175
+[2021.04.07-18.57.51:588][972]AssetCheck: New page: Asset Save: Claustrophobia
+[2021.04.07-18.57.51:588][972]LogContentValidation: Display: Validating World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.58.31:018][  4]BlueprintLog: New page: Compile Claustrophobia
+[2021.04.07-18.58.31:057][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.04.07-18.58.31:154][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.04.07-18.58.31:306][  4]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Claustrophobia94BE3CD84C471D44C9823DBAB09DE935.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap'
+[2021.04.07-18.58.31:312][  4]LogFileHelpers: Saving map 'Claustrophobia' took 0.174
+[2021.04.07-18.58.31:321][  4]AssetCheck: New page: Asset Save: Claustrophobia
+[2021.04.07-18.58.31:321][  4]LogContentValidation: Display: Validating World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.58.31:673][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.04.07-18.58.31:823][ 34]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Claustrophobia81FBFF8847C0B229F0B960B8150784B6.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap'
+[2021.04.07-18.58.31:829][ 34]LogFileHelpers: Saving map 'Claustrophobia' took 0.173
+[2021.04.07-18.58.31:837][ 34]AssetCheck: New page: Asset Save: Claustrophobia
+[2021.04.07-18.58.31:837][ 34]LogContentValidation: Display: Validating World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.58.33:872][273]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.07-18.58.33:878][273]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.07-18.58.33:878][273]PIE: New page: PIE session: Claustrophobia (Apr 7, 2021, 10:58:33 AM)
+[2021.04.07-18.58.33:878][273]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Claustrophobia
+[2021.04.07-18.58.33:924][273]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046101s)
+[2021.04.07-18.58.33:925][273]LogAIModule: Creating AISystem for world Claustrophobia
+[2021.04.07-18.58.33:926][273]LogPlayLevel: PIE: World Init took: (0.001403s)
+[2021.04.07-18.58.33:926][273]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Claustrophobia.Claustrophobia to /Game/Levels/UEDPIE_0_Claustrophobia.Claustrophobia (0.047795s)
+[2021.04.07-18.58.33:944][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.04.07-18.58.33:944][273]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.04.07-18.58.33:944][273]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.07-18.58.33:944][273]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.07-18.58.33:944][273]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.07-18.58.33:944][273]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.07-18.58.33:944][273]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.07-18.58.33:944][273]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.07-18.58.33:944][273]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.07-18.58.33:944][273]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.07-18.58.33:945][273]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.07-18.58.33:945][273]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.07-18.58.33:947][273]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.07-18.58.33:947][273]LogAudioMixer: Display: 1: FrontRight
+[2021.04.07-18.58.33:947][273]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.07-18.58.33:947][273]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.07-18.58.33:947][273]LogAudioMixer: Display: 4: BackLeft
+[2021.04.07-18.58.33:947][273]LogAudioMixer: Display: 5: BackRight
+[2021.04.07-18.58.33:947][273]LogAudioMixer: Display: 6: SideLeft
+[2021.04.07-18.58.33:947][273]LogAudioMixer: Display: 7: SideRight
+[2021.04.07-18.58.33:963][273]LogAudioMixer: Display: Using Audio Device Speakers (7.1 Surround Sound)
+[2021.04.07-18.58.33:963][273]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.07-18.58.33:963][273]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.07-18.58.33:963][273]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.07-18.58.33:963][273]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.07-18.58.33:963][273]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.07-18.58.33:963][273]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.07-18.58.33:979][273]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.07-18.58.33:979][273]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.07-18.58.33:979][273]LogInit: FAudioDevice initialized.
+[2021.04.07-18.58.33:979][273]LogAudio: Display: Audio Device (ID: 5) registered with world 'Claustrophobia'.
+[2021.04.07-18.58.34:023][273]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-18.58.34:023][273]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.07-18.58.34:029][273]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Levels/UEDPIE_0_Claustrophobia.Claustrophobia:PersistentLevel.armInWall_animation_Anim_6.SkeletalMeshComponent0' Bone: 'handMain' 
+[2021.04.07-18.58.34:030][273]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Claustrophobia.Claustrophobia up for play (max tick rate 0) at 2021.04.07-14.58.34
+[2021.04.07-18.58.34:031][273]LogWorld: Bringing up level for play took: 0.006860
+[2021.04.07-18.58.34:031][273]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.04.07-18.58.34:567][273]LogBlueprintUserMessages: [InventoryComponent] Pre Prepare
+[2021.04.07-18.58.34:567][273]LogBlueprintUserMessages: [InventoryComponent] Prepared
+[2021.04.07-18.58.34:567][273]LogBlueprintUserMessages: [InventoryComponent] Whats Next
+[2021.04.07-18.58.34:568][273]PIE: Server logged in
+[2021.04.07-18.58.34:568][273]PIE: Play in editor total start time 0.692 seconds.
+[2021.04.07-18.58.34:693][274]LogRenderer: Reallocating scene render targets to support 1912x996 Format 10 NumSamples 1 (Frame:1).
+[2021.04.07-18.58.37:427][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-18.58.37:427][360]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Claustrophobia
+[2021.04.07-18.58.37:427][360]LogSlate: Window 'Phobias Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.07-18.58.37:447][360]LogWorld: UWorld::CleanupWorld for Claustrophobia, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.58.37:448][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.58.37:476][360]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.07-18.58.37:493][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.58.37:507][360]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.07-18.58.37:508][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-18.58.37:509][360]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-18.58.37:533][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.04.07-18.58.37:547][361]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.04.07-18.58.47:089][494]BlueprintLog: New page: Compile Claustrophobia
+[2021.04.07-18.58.47:127][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.04.07-18.58.47:237][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.04.07-18.58.47:388][494]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Claustrophobia0CD412964350B335B48946BDB83D3FAD.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap'
+[2021.04.07-18.58.47:393][494]LogFileHelpers: Saving map 'Claustrophobia' took 0.175
+[2021.04.07-18.58.47:403][494]AssetCheck: New page: Asset Save: Claustrophobia
+[2021.04.07-18.58.47:403][494]LogContentValidation: Display: Validating World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.58.47:585][503]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.04.07-18.58.47:737][503]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Claustrophobia8D2BD46A4CBE839AAAEEBABFB318F5FC.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Claustrophobia.umap'
+[2021.04.07-18.58.47:743][503]LogFileHelpers: Saving map 'Claustrophobia' took 0.175
+[2021.04.07-18.58.47:753][503]AssetCheck: New page: Asset Save: Claustrophobia
+[2021.04.07-18.58.47:753][503]LogContentValidation: Display: Validating World /Game/Levels/Claustrophobia.Claustrophobia
