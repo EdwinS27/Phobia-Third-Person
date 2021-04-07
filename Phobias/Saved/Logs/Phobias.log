@@ -1480,3 +1480,798 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.07-18.58.47:743][503]LogFileHelpers: Saving map 'Claustrophobia' took 0.175
 [2021.04.07-18.58.47:753][503]AssetCheck: New page: Asset Save: Claustrophobia
 [2021.04.07-18.58.47:753][503]LogContentValidation: Display: Validating World /Game/Levels/Claustrophobia.Claustrophobia
+[2021.04.07-18.59.44:152][996]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-18.59.44:152][996]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-18.59.47:087][250]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/SaveSystem/SaveBP.SaveBP
+[2021.04.07-19.00.01:793][962]BlueprintLog: New page: Compile SaveBP
+[2021.04.07-19.00.01:817][962]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.04.07-19.00.01:913][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/SaveSystem/SaveBP" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/SaveSystem/SaveBP.uasset" SILENT=true
+[2021.04.07-19.00.01:916][962]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/SaveBPFDB0796E40151031676ECAB6F2534D40.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/SaveSystem/SaveBP.uasset'
+[2021.04.07-19.00.01:927][962]AssetCheck: New page: Asset Save: SaveBP
+[2021.04.07-19.00.01:927][962]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/SaveSystem/SaveBP.SaveBP
+[2021.04.07-19.00.02:233][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/SaveSystem/SaveBP" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/SaveSystem/SaveBP.uasset" SILENT=true
+[2021.04.07-19.00.02:235][985]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/SaveBPB19B5ED044CBD889EBF29E9FC370CDF1.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/SaveSystem/SaveBP.uasset'
+[2021.04.07-19.00.02:243][985]AssetCheck: New page: Asset Save: SaveBP
+[2021.04.07-19.00.02:243][985]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/SaveSystem/SaveBP.SaveBP
+[2021.04.07-19.00.02:952][ 63]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-19.00.02:952][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.00.18:603][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.04.07-19.00.18:671][644]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark
+[2021.04.07-19.00.18:671][644]Cmd: MAP LOAD FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.07-19.00.18:671][644]LightingResults: New page: Lighting Build
+[2021.04.07-19.00.18:671][644]LoadErrors: New page: Loading map: Fear_Of_The_Dark.umap
+[2021.04.07-19.00.18:685][644]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-19.00.18:686][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.00.18:723][644]LogWorld: UWorld::CleanupWorld for Claustrophobia, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-19.00.18:723][644]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.00.18:723][644]MapCheck: New page: Map Check
+[2021.04.07-19.00.18:723][644]LightingResults: New page: Lighting Build
+[2021.04.07-19.00.18:735][644]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.07-19.00.18:746][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.04.07-19.00.18:747][644]LogAudio: Display: Audio Device (ID: 1) registered with world 'Fear_Of_The_Dark'.
+[2021.04.07-19.00.18:762][644]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.07-19.00.18:762][644]LogAIModule: Creating AISystem for world Fear_Of_The_Dark
+[2021.04.07-19.00.18:779][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.04.07-19.00.18:783][644]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.07-19.00.18:784][644]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
+[2021.04.07-19.00.18:784][644]LogFileHelpers: Loading map 'Fear_Of_The_Dark' took 0.113
+[2021.04.07-19.00.24:265][230]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark:PersistentLevel.Fear_Of_The_Dark
+[2021.04.07-19.00.25:964][356]LogSlate: Window 'Fear_Of_The_Dark' being destroyed
+[2021.04.07-19.02.22:668][136]BlueprintLog: New page: Compile Fear_Of_The_Dark
+[2021.04.07-19.02.22:705][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.04.07-19.02.22:813][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.04.07-19.02.22:883][136]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark9A5F5CA04031D689C9A8DD83114BDCA9.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark.umap'
+[2021.04.07-19.02.22:889][136]LogFileHelpers: Saving map 'Fear_Of_The_Dark' took 0.092
+[2021.04.07-19.02.22:901][136]AssetCheck: New page: Asset Save: Fear_Of_The_Dark
+[2021.04.07-19.02.22:901][136]LogContentValidation: Display: Validating World /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark
+[2021.04.07-19.02.23:129][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.04.07-19.02.23:200][150]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_DarkAD19CAA1485D4A61E305B098FE740A42.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark.umap'
+[2021.04.07-19.02.23:206][150]LogFileHelpers: Saving map 'Fear_Of_The_Dark' took 0.092
+[2021.04.07-19.02.23:216][150]AssetCheck: New page: Asset Save: Fear_Of_The_Dark
+[2021.04.07-19.02.23:216][150]LogContentValidation: Display: Validating World /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark
+[2021.04.07-19.02.25:054][365]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.07-19.02.25:060][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.07-19.02.25:060][365]PIE: New page: PIE session: Fear_Of_The_Dark (Apr 7, 2021, 11:02:25 AM)
+[2021.04.07-19.02.25:061][365]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.02.25:080][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019276s)
+[2021.04.07-19.02.25:081][365]LogAIModule: Creating AISystem for world Fear_Of_The_Dark
+[2021.04.07-19.02.25:081][365]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2021.04.07-19.02.25:081][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark to /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark (0.020314s)
+[2021.04.07-19.02.25:096][365]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.04.07-19.02.25:097][365]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.04.07-19.02.25:097][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.07-19.02.25:097][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.07-19.02.25:097][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.07-19.02.25:097][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.07-19.02.25:097][365]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.07-19.02.25:097][365]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.07-19.02.25:097][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.07-19.02.25:097][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.07-19.02.25:097][365]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.07-19.02.25:097][365]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.07-19.02.25:100][365]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.07-19.02.25:100][365]LogAudioMixer: Display: 1: FrontRight
+[2021.04.07-19.02.25:100][365]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.07-19.02.25:100][365]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.07-19.02.25:100][365]LogAudioMixer: Display: 4: BackLeft
+[2021.04.07-19.02.25:100][365]LogAudioMixer: Display: 5: BackRight
+[2021.04.07-19.02.25:100][365]LogAudioMixer: Display: 6: SideLeft
+[2021.04.07-19.02.25:100][365]LogAudioMixer: Display: 7: SideRight
+[2021.04.07-19.02.25:116][365]LogAudioMixer: Display: Using Audio Device Speakers (7.1 Surround Sound)
+[2021.04.07-19.02.25:116][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.07-19.02.25:116][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.07-19.02.25:116][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.07-19.02.25:116][365]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.07-19.02.25:116][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.07-19.02.25:116][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.07-19.02.25:132][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.07-19.02.25:132][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.07-19.02.25:132][365]LogInit: FAudioDevice initialized.
+[2021.04.07-19.02.25:132][365]LogAudio: Display: Audio Device (ID: 6) registered with world 'Fear_Of_The_Dark'.
+[2021.04.07-19.02.25:182][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.02.25:182][365]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.07-19.02.25:186][365]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark up for play (max tick rate 0) at 2021.04.07-15.02.25
+[2021.04.07-19.02.25:186][365]LogWorld: Bringing up level for play took: 0.004153
+[2021.04.07-19.02.25:187][365]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.04.07-19.02.25:190][365]LogBlueprintUserMessages: [InventoryComponent] Pre Prepare
+[2021.04.07-19.02.25:190][365]LogBlueprintUserMessages: [InventoryComponent] Prepared
+[2021.04.07-19.02.25:190][365]LogBlueprintUserMessages: [InventoryComponent] Whats Next
+[2021.04.07-19.02.25:192][365]PIE: Server logged in
+[2021.04.07-19.02.25:192][365]PIE: Play in editor total start time 0.133 seconds.
+[2021.04.07-19.02.26:747][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.02.26:747][525]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.02.26:747][525]LogSlate: Window 'Phobias Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.07-19.02.26:752][525]LogWorld: UWorld::CleanupWorld for Fear_Of_The_Dark, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-19.02.26:753][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.02.26:763][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.07-19.02.26:768][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.02.26:782][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.02.26:783][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.02.26:804][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.04.07-19.02.26:825][526]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.04.07-19.02.50:335][194]BlueprintLog: New page: Compile Fear_Of_The_Dark
+[2021.04.07-19.02.50:370][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.04.07-19.02.50:470][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.04.07-19.02.50:540][194]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark03938C6C4B837ACBB306C498EED46F36.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark.umap'
+[2021.04.07-19.02.50:546][194]LogFileHelpers: Saving map 'Fear_Of_The_Dark' took 0.091
+[2021.04.07-19.02.50:556][194]AssetCheck: New page: Asset Save: Fear_Of_The_Dark
+[2021.04.07-19.02.50:556][194]LogContentValidation: Display: Validating World /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark
+[2021.04.07-19.02.50:872][218]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.04.07-19.02.50:942][218]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark897EEE4544531EDCC95D39AFC7A3FC32.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark.umap'
+[2021.04.07-19.02.50:948][218]LogFileHelpers: Saving map 'Fear_Of_The_Dark' took 0.091
+[2021.04.07-19.02.50:956][218]AssetCheck: New page: Asset Save: Fear_Of_The_Dark
+[2021.04.07-19.02.50:956][218]LogContentValidation: Display: Validating World /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark
+[2021.04.07-19.02.51:927][332]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.07-19.02.51:933][332]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.07-19.02.51:933][332]PIE: New page: PIE session: Fear_Of_The_Dark (Apr 7, 2021, 11:02:51 AM)
+[2021.04.07-19.02.51:933][332]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.02.51:952][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019196s)
+[2021.04.07-19.02.51:953][332]LogAIModule: Creating AISystem for world Fear_Of_The_Dark
+[2021.04.07-19.02.51:953][332]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2021.04.07-19.02.51:953][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark to /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark (0.020242s)
+[2021.04.07-19.02.51:969][332]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2021.04.07-19.02.51:970][332]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.04.07-19.02.51:970][332]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.07-19.02.51:970][332]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.07-19.02.51:970][332]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.07-19.02.51:970][332]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.07-19.02.51:970][332]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.07-19.02.51:970][332]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.07-19.02.51:970][332]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.07-19.02.51:970][332]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.07-19.02.51:970][332]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.07-19.02.51:970][332]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.07-19.02.51:972][332]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.07-19.02.51:972][332]LogAudioMixer: Display: 1: FrontRight
+[2021.04.07-19.02.51:972][332]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.07-19.02.51:972][332]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.07-19.02.51:972][332]LogAudioMixer: Display: 4: BackLeft
+[2021.04.07-19.02.51:972][332]LogAudioMixer: Display: 5: BackRight
+[2021.04.07-19.02.51:972][332]LogAudioMixer: Display: 6: SideLeft
+[2021.04.07-19.02.51:972][332]LogAudioMixer: Display: 7: SideRight
+[2021.04.07-19.02.51:988][332]LogAudioMixer: Display: Using Audio Device Speakers (7.1 Surround Sound)
+[2021.04.07-19.02.51:989][332]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.07-19.02.51:989][332]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.07-19.02.51:989][332]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.07-19.02.51:989][332]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.07-19.02.51:989][332]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.07-19.02.51:989][332]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.07-19.02.51:990][332]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.07-19.02.51:990][332]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.07-19.02.51:990][332]LogInit: FAudioDevice initialized.
+[2021.04.07-19.02.51:990][332]LogAudio: Display: Audio Device (ID: 7) registered with world 'Fear_Of_The_Dark'.
+[2021.04.07-19.02.52:037][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.02.52:037][332]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.07-19.02.52:041][332]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark up for play (max tick rate 0) at 2021.04.07-15.02.52
+[2021.04.07-19.02.52:042][332]LogWorld: Bringing up level for play took: 0.004072
+[2021.04.07-19.02.52:042][332]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.04.07-19.02.52:046][332]LogBlueprintUserMessages: [InventoryComponent] Pre Prepare
+[2021.04.07-19.02.52:046][332]LogBlueprintUserMessages: [InventoryComponent] Prepared
+[2021.04.07-19.02.52:046][332]LogBlueprintUserMessages: [InventoryComponent] Whats Next
+[2021.04.07-19.02.52:047][332]PIE: Server logged in
+[2021.04.07-19.02.52:048][332]PIE: Play in editor total start time 0.116 seconds.
+[2021.04.07-19.02.54:598][544]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.02.54:598][544]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.02.54:598][544]LogSlate: Window 'Phobias Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.07-19.02.54:604][544]LogWorld: UWorld::CleanupWorld for Fear_Of_The_Dark, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-19.02.54:605][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.02.54:613][544]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.07-19.02.54:628][544]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.02.54:642][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.02.54:643][544]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.02.54:664][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.04.07-19.02.54:685][545]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.04.07-19.02.56:345][736]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-19.02.56:345][736]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.04.40:091][ 45]Cmd: DELETE
+[2021.04.07-19.04.40:091][ 45]Cmd: ACTOR DELETE
+[2021.04.07-19.04.40:097][ 45]LogEditorActor: Deleted Actor: PlayerStart
+[2021.04.07-19.04.40:112][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.04.07-19.04.40:124][ 45]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2021.04.07-19.04.41:260][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.04.07-19.04.41:332][162]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark47A123B84A2D27693170969A962EDD7B.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark.umap'
+[2021.04.07-19.04.41:349][162]AssetCheck: New page: Asset Save: Fear_Of_The_Dark
+[2021.04.07-19.04.41:349][162]LogContentValidation: Display: Validating World /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark
+[2021.04.07-19.04.42:295][265]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.07-19.04.42:301][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.07-19.04.42:301][265]PIE: New page: PIE session: Fear_Of_The_Dark (Apr 7, 2021, 11:04:42 AM)
+[2021.04.07-19.04.42:325][265]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.04.42:344][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019377s)
+[2021.04.07-19.04.42:345][265]LogAIModule: Creating AISystem for world Fear_Of_The_Dark
+[2021.04.07-19.04.42:345][265]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2021.04.07-19.04.42:345][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark to /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark (0.020449s)
+[2021.04.07-19.04.42:358][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.04.07-19.04.42:360][265]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.04.07-19.04.42:360][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.07-19.04.42:360][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.07-19.04.42:360][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.07-19.04.42:360][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.07-19.04.42:360][265]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.07-19.04.42:360][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.07-19.04.42:360][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.07-19.04.42:360][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.07-19.04.42:360][265]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.07-19.04.42:360][265]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.07-19.04.42:363][265]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.07-19.04.42:363][265]LogAudioMixer: Display: 1: FrontRight
+[2021.04.07-19.04.42:363][265]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.07-19.04.42:363][265]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.07-19.04.42:363][265]LogAudioMixer: Display: 4: BackLeft
+[2021.04.07-19.04.42:363][265]LogAudioMixer: Display: 5: BackRight
+[2021.04.07-19.04.42:363][265]LogAudioMixer: Display: 6: SideLeft
+[2021.04.07-19.04.42:363][265]LogAudioMixer: Display: 7: SideRight
+[2021.04.07-19.04.42:379][265]LogAudioMixer: Display: Using Audio Device Speakers (7.1 Surround Sound)
+[2021.04.07-19.04.42:379][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.07-19.04.42:379][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.07-19.04.42:379][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.07-19.04.42:379][265]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.07-19.04.42:379][265]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.07-19.04.42:379][265]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.07-19.04.42:395][265]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.07-19.04.42:395][265]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.07-19.04.42:395][265]LogInit: FAudioDevice initialized.
+[2021.04.07-19.04.42:395][265]LogAudio: Display: Audio Device (ID: 8) registered with world 'Fear_Of_The_Dark'.
+[2021.04.07-19.04.42:400][265]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.07-19.04.42:404][265]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark up for play (max tick rate 0) at 2021.04.07-15.04.42
+[2021.04.07-19.04.42:405][265]LogWorld: Bringing up level for play took: 0.003972
+[2021.04.07-19.04.42:405][265]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.04.07-19.04.42:409][265]LogBlueprintUserMessages: [InventoryComponent] Pre Prepare
+[2021.04.07-19.04.42:409][265]LogBlueprintUserMessages: [InventoryComponent] Prepared
+[2021.04.07-19.04.42:409][265]LogBlueprintUserMessages: [InventoryComponent] Whats Next
+[2021.04.07-19.04.42:409][265]PIE: Server logged in
+[2021.04.07-19.04.42:410][265]PIE: Play in editor total start time 0.111 seconds.
+[2021.04.07-19.04.43:617][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.04.43:617][404]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.04.43:617][404]LogWorld: UWorld::CleanupWorld for Fear_Of_The_Dark, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-19.04.43:618][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.04.43:628][404]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.07-19.04.43:633][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.04.43:644][404]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.07-19.04.43:644][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.04.43:645][404]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.04.43:663][404]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.04.43:666][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.04.07-19.04.43:709][406]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.04.07-19.08.34:710][882]MapCheck: New page: Map Check
+[2021.04.07-19.08.34:723][882]Cmd: MAP REBUILD ALLVISIBLE
+[2021.04.07-19.08.34:723][882]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.04.07-19.08.34:750][882]LogWorld: UWorld::CleanupWorld for Fear_Of_The_Dark, bSessionEnded=true, bCleanupResources=false
+[2021.04.07-19.08.34:790][882]LightingResults: New page: Lighting Build - Apr 7, 2021, 11:08:34 AM
+[2021.04.07-19.08.35:341][882]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.04.07-19.08.35:387][882]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.04.07-19.08.35:401][882]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.04.07-19.08.35:917][882]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.04.07-19.08.35:917][882]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15784
+[2021.04.07-19.08.42:581][882]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2021.04.07-19.08.42:581][882]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.04.07-19.08.42:581][882]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.04.07-19.08.42:581][882]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.04.07-19.08.42:581][882]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.04.07-19.08.42:581][882]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.04.07-19.08.42:766][882]LogEditorBuildUtils: Build time 0:08
+[2021.04.07-19.08.42:903][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.04.07-19.09.11:392][184]LightingResults: Warning: SM_Modern_Cupboard Object has wrapping UVs.
+[2021.04.07-19.09.11:392][184]LightingResults: Warning: SM_Modern_Cupboard Object has overlapping UVs.
+[2021.04.07-19.09.11:392][184]LightingResults: SM_Modern_Cupboard Lightmap UV are overlapping by 89.5%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.07-19.09.11:717][185]LightingResults: Warning: Fire_Rune Object has overlapping UVs.
+[2021.04.07-19.09.11:717][185]LightingResults: Fire_Rune Lightmap UV are overlapping by 7.4%. Please adjust content - Enable Error Coloring to visualize.
+[2021.04.07-19.09.18:783][206]Job is a success!
+[2021.04.07-19.09.19:329][207]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.099s
+[2021.04.07-19.09.19:329][207]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2021.04.07-19.09.19:329][207]LogVolumetricLightmapImport:      BrickData (all levels) 2.3Mb (trimmed 0.2Mb due to 0.010000 MinBrickError)
+[2021.04.07-19.09.19:329][207]LogVolumetricLightmapImport:      Bricks at depth
+[2021.04.07-19.09.19:329][207]LogVolumetricLightmapImport:          0: 2.1% covering 100.0% of volume
+[2021.04.07-19.09.19:329][207]LogVolumetricLightmapImport:          1: 8.8% covering 6.6% of volume
+[2021.04.07-19.09.19:329][207]LogVolumetricLightmapImport:          2: 89.1% covering 1.1% of volume
+[2021.04.07-19.09.19:329][207]LogVolumetricLightmapImport:      Bricks in each level
+[2021.04.07-19.09.19:329][207]LogVolumetricLightmapImport:          Fear_Of_The_Dark 			 387 bricks 	 100.0% (Persistent Level)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 64X64)
+[2021.04.07-19.09.20:323][207]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 64X64)
+[2021.04.07-19.09.20:558][207]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2021.04.07-19.09.20:558][207]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 256X128)
+[2021.04.07-19.09.20:558][207]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2021.04.07-19.09.20:558][207]Lightmass on DESKTOP-EPL7NBG: 34.6 sec total, 275 ms importing, 233 ms setup, 7.37 sec photons, 26.7 sec processing, 0 ms extra exporting [232/232 mappings]. Threads: 10:14 min total, 2:49 min processing.
+[2021.04.07-19.09.20:565][207]LogStaticLightingSystem: Fear_Of_The_Dark_BuiltData storing lightmap data for 146 meshes in 12 LightmapResourceClusters (12.2 Meshes per cluster).
+[2021.04.07-19.09.20:586][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.04.07-19.09.20:641][207]LogStaticLightingSystem: Illumination: 45.5 sec (628 ms encoding lightmaps, 172 ms encoding shadowmaps)
+[2021.04.07-19.09.20:641][207]LogStaticLightingSystem: Lightmap texture memory:  26.0 MB (22.0 MB streaming, 4.0 MB non-streaming), 22 textures
+[2021.04.07-19.09.20:641][207]LogStaticLightingSystem: Shadowmap texture memory: 5.5 MB (0.2 MB streaming, 5.3 MB non-streaming), 3 textures
+[2021.04.07-19.09.21:607][207]DumpUnbuiltLightIteractions
+[2021.04.07-19.09.21:607][207]Lights with unbuilt interactions: 0
+[2021.04.07-19.09.21:607][207]
+[2021.04.07-19.09.21:607][207]Primitives with unbuilt interactions: 0
+[2021.04.07-19.09.21:685][207]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.04.07-19.09.21:719][208]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.04.07-19.09.21:719][208]MapCheck: New page: Fear_Of_The_Dark - Apr 7, 2021, 11:09:21 AM
+[2021.04.07-19.09.21:720][208]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.975ms to complete.
+[2021.04.07-19.14.45:184][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.04.07-19.14.45:256][177]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark_Auto176F1CD0F49AD69E90724CC8E5CC2D59C.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Autosaves/Game/Levels/Fear_Of_The_Dark_Auto1.umap'
+[2021.04.07-19.14.45:257][177]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Fear_Of_The_Dark' took 0.087
+[2021.04.07-19.14.45:257][177]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.087
+[2021.04.07-19.16.20:199][631]LogSlate: Window 'Message Log' being destroyed
+[2021.04.07-19.16.46:075][889]Cmd: ACTOR SELECT ALL
+[2021.04.07-19.16.50:325][339]Cmd: ACTOR SELECT ALL
+[2021.04.07-19.16.55:136][875]LogTemp: Repeating last play command: Selected Viewport
+[2021.04.07-19.16.55:143][875]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.07-19.16.55:143][875]PIE: New page: PIE session: Fear_Of_The_Dark (Apr 7, 2021, 11:16:55 AM)
+[2021.04.07-19.16.55:163][875]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.16.55:183][875]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019734s)
+[2021.04.07-19.16.55:184][875]LogAIModule: Creating AISystem for world Fear_Of_The_Dark
+[2021.04.07-19.16.55:184][875]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2021.04.07-19.16.55:184][875]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark to /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark (0.020953s)
+[2021.04.07-19.16.55:198][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.04.07-19.16.55:205][875]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.04.07-19.16.55:205][875]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.07-19.16.55:205][875]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.07-19.16.55:205][875]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.07-19.16.55:205][875]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.07-19.16.55:205][875]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.07-19.16.55:205][875]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.07-19.16.55:205][875]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.07-19.16.55:206][875]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.07-19.16.55:206][875]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.07-19.16.55:206][875]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.07-19.16.55:208][875]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.07-19.16.55:208][875]LogAudioMixer: Display: 1: FrontRight
+[2021.04.07-19.16.55:208][875]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.07-19.16.55:208][875]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.07-19.16.55:208][875]LogAudioMixer: Display: 4: BackLeft
+[2021.04.07-19.16.55:208][875]LogAudioMixer: Display: 5: BackRight
+[2021.04.07-19.16.55:208][875]LogAudioMixer: Display: 6: SideLeft
+[2021.04.07-19.16.55:208][875]LogAudioMixer: Display: 7: SideRight
+[2021.04.07-19.16.55:224][875]LogAudioMixer: Display: Using Audio Device Speakers (7.1 Surround Sound)
+[2021.04.07-19.16.55:224][875]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.07-19.16.55:224][875]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.07-19.16.55:224][875]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.07-19.16.55:225][875]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.07-19.16.55:225][875]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.07-19.16.55:225][875]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.07-19.16.55:240][875]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.07-19.16.55:240][875]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.07-19.16.55:240][875]LogInit: FAudioDevice initialized.
+[2021.04.07-19.16.55:240][875]LogAudio: Display: Audio Device (ID: 9) registered with world 'Fear_Of_The_Dark'.
+[2021.04.07-19.16.55:247][875]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.07-19.16.55:251][875]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark up for play (max tick rate 0) at 2021.04.07-15.16.55
+[2021.04.07-19.16.55:251][875]LogWorld: Bringing up level for play took: 0.003915
+[2021.04.07-19.16.55:252][875]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.04.07-19.16.55:255][875]LogBlueprintUserMessages: [InventoryComponent] Pre Prepare
+[2021.04.07-19.16.55:255][875]LogBlueprintUserMessages: [InventoryComponent] Prepared
+[2021.04.07-19.16.55:255][875]LogBlueprintUserMessages: [InventoryComponent] Whats Next
+[2021.04.07-19.16.55:256][875]PIE: Server logged in
+[2021.04.07-19.16.55:257][875]PIE: Play in editor total start time 0.115 seconds.
+[2021.04.07-19.17.09:827][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.17.09:827][618]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.17.09:827][618]LogWorld: UWorld::CleanupWorld for Fear_Of_The_Dark, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-19.17.09:828][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.17.09:836][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.07-19.17.09:853][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.17.09:864][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.17.09:865][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.17.09:866][618]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.17.09:888][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.04.07-19.17.09:922][619]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.04.07-19.17.15:633][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.04.07-19.17.18:137][162]LogSlate: Window 'Save Content' being destroyed
+[2021.04.07-19.17.18:141][162]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2021.04.07-19.17.18:141][162]PIE: Warning: PIE failed because map save was canceled
+[2021.04.07-19.17.20:643][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.07-19.17.20:643][413]PIE: New page: PIE session: Fear_Of_The_Dark (Apr 7, 2021, 11:17:20 AM)
+[2021.04.07-19.17.20:683][413]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.17.20:703][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019113s)
+[2021.04.07-19.17.20:703][413]LogAIModule: Creating AISystem for world Fear_Of_The_Dark
+[2021.04.07-19.17.20:704][413]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2021.04.07-19.17.20:704][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark to /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark (0.020256s)
+[2021.04.07-19.17.20:717][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.04.07-19.17.20:718][413]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.04.07-19.17.20:718][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.07-19.17.20:718][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.07-19.17.20:718][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.07-19.17.20:718][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.07-19.17.20:718][413]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.07-19.17.20:718][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.07-19.17.20:718][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.07-19.17.20:718][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.07-19.17.20:719][413]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.07-19.17.20:719][413]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.07-19.17.20:721][413]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.07-19.17.20:721][413]LogAudioMixer: Display: 1: FrontRight
+[2021.04.07-19.17.20:721][413]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.07-19.17.20:721][413]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.07-19.17.20:721][413]LogAudioMixer: Display: 4: BackLeft
+[2021.04.07-19.17.20:721][413]LogAudioMixer: Display: 5: BackRight
+[2021.04.07-19.17.20:721][413]LogAudioMixer: Display: 6: SideLeft
+[2021.04.07-19.17.20:721][413]LogAudioMixer: Display: 7: SideRight
+[2021.04.07-19.17.20:737][413]LogAudioMixer: Display: Using Audio Device Speakers (7.1 Surround Sound)
+[2021.04.07-19.17.20:737][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.07-19.17.20:737][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.07-19.17.20:737][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.07-19.17.20:738][413]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.07-19.17.20:738][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.07-19.17.20:738][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.07-19.17.20:753][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.07-19.17.20:753][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.07-19.17.20:753][413]LogInit: FAudioDevice initialized.
+[2021.04.07-19.17.20:754][413]LogAudio: Display: Audio Device (ID: 10) registered with world 'Fear_Of_The_Dark'.
+[2021.04.07-19.17.20:794][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.17.20:794][413]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.07-19.17.20:798][413]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark up for play (max tick rate 0) at 2021.04.07-15.17.20
+[2021.04.07-19.17.20:799][413]LogWorld: Bringing up level for play took: 0.004084
+[2021.04.07-19.17.20:799][413]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.04.07-19.17.20:802][413]LogBlueprintUserMessages: [InventoryComponent] Pre Prepare
+[2021.04.07-19.17.20:802][413]LogBlueprintUserMessages: [InventoryComponent] Prepared
+[2021.04.07-19.17.20:802][413]LogBlueprintUserMessages: [InventoryComponent] Whats Next
+[2021.04.07-19.17.20:804][413]PIE: Server logged in
+[2021.04.07-19.17.20:805][413]PIE: Play in editor total start time 0.163 seconds.
+[2021.04.07-19.17.24:618][707]LogRenderer: Reallocating scene render targets to support 2560x1388 Format 10 NumSamples 1 (Frame:295).
+[2021.04.07-19.17.36:251][470]LogCharacterMovement: ChildCharacterBP_C_0 is stuck and failed to move! Velocity: X=4.72 Y=451.29 Z=0.00 Location: X=-36.84 Y=-2698.66 Z=3819.93 Normal: X=-0.47 Y=-0.88 Z=0.00 PenetrationDepth:0.381 Actor:OpenDoorBP3rdFloor Component:Door BoneName:None (0 other events since notify)
+[2021.04.07-19.17.52:766][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.17.52:766][541]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.17.52:767][541]LogSlate: Window 'Phobias Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.07-19.17.52:780][541]LogWorld: UWorld::CleanupWorld for Fear_Of_The_Dark, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-19.17.52:781][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.17.52:789][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.07-19.17.52:807][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.17.52:818][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.17.52:820][541]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.17.52:841][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.04.07-19.17.52:863][542]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.04.07-19.18.04:205][578]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/KeySystem/OpenDoorBP.OpenDoorBP
+[2021.04.07-19.18.38:845][610]BlueprintLog: New page: Compile OpenDoorBP
+[2021.04.07-19.18.39:016][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.04.07-19.18.39:130][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/KeySystem/OpenDoorBP" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset" SILENT=true
+[2021.04.07-19.18.39:186][610]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/OpenDoorBPAEA98F374EB077BBD59D3FB40077C961.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset'
+[2021.04.07-19.18.39:208][610]AssetCheck: New page: Asset Save: OpenDoorBP
+[2021.04.07-19.18.39:208][610]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/KeySystem/OpenDoorBP.OpenDoorBP
+[2021.04.07-19.18.42:912][ 44]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.07-19.18.42:918][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.07-19.18.42:918][ 44]PIE: New page: PIE session: Fear_Of_The_Dark (Apr 7, 2021, 11:18:42 AM)
+[2021.04.07-19.18.42:918][ 44]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.18.42:937][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019117s)
+[2021.04.07-19.18.42:938][ 44]LogAIModule: Creating AISystem for world Fear_Of_The_Dark
+[2021.04.07-19.18.42:938][ 44]LogPlayLevel: PIE: World Init took: (0.000910s)
+[2021.04.07-19.18.42:938][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark to /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark (0.020153s)
+[2021.04.07-19.18.42:956][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.04.07-19.18.42:957][ 44]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.04.07-19.18.42:957][ 44]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.07-19.18.42:957][ 44]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.07-19.18.42:957][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.07-19.18.42:957][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.07-19.18.42:957][ 44]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.07-19.18.42:957][ 44]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.07-19.18.42:957][ 44]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.07-19.18.42:957][ 44]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.07-19.18.42:957][ 44]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.07-19.18.42:957][ 44]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.07-19.18.42:960][ 44]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.07-19.18.42:960][ 44]LogAudioMixer: Display: 1: FrontRight
+[2021.04.07-19.18.42:960][ 44]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.07-19.18.42:960][ 44]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.07-19.18.42:960][ 44]LogAudioMixer: Display: 4: BackLeft
+[2021.04.07-19.18.42:960][ 44]LogAudioMixer: Display: 5: BackRight
+[2021.04.07-19.18.42:960][ 44]LogAudioMixer: Display: 6: SideLeft
+[2021.04.07-19.18.42:960][ 44]LogAudioMixer: Display: 7: SideRight
+[2021.04.07-19.18.42:977][ 44]LogAudioMixer: Display: Using Audio Device Speakers (7.1 Surround Sound)
+[2021.04.07-19.18.42:978][ 44]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.07-19.18.42:978][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.07-19.18.42:978][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.07-19.18.42:978][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.07-19.18.42:978][ 44]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.07-19.18.42:978][ 44]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.07-19.18.42:994][ 44]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.07-19.18.42:994][ 44]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.07-19.18.42:994][ 44]LogInit: FAudioDevice initialized.
+[2021.04.07-19.18.42:994][ 44]LogAudio: Display: Audio Device (ID: 11) registered with world 'Fear_Of_The_Dark'.
+[2021.04.07-19.18.43:031][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.18.43:031][ 44]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.07-19.18.43:035][ 44]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark up for play (max tick rate 0) at 2021.04.07-15.18.43
+[2021.04.07-19.18.43:036][ 44]LogWorld: Bringing up level for play took: 0.004112
+[2021.04.07-19.18.43:036][ 44]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.04.07-19.18.43:038][ 44]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.07-19.18.43:039][ 44]LogBlueprintUserMessages: [InventoryComponent] Pre Prepare
+[2021.04.07-19.18.43:040][ 44]LogBlueprintUserMessages: [InventoryComponent] Prepared
+[2021.04.07-19.18.43:040][ 44]LogBlueprintUserMessages: [InventoryComponent] Whats Next
+[2021.04.07-19.18.43:042][ 44]PIE: Server logged in
+[2021.04.07-19.18.43:043][ 44]PIE: Play in editor total start time 0.127 seconds.
+[2021.04.07-19.18.45:756][231]LogBlueprintUserMessages: [InventoryComponent] Add True
+[2021.04.07-19.18.45:756][231]LogBlueprintUserMessages: [InventoryComponent] Adding To Stack
+[2021.04.07-19.18.45:756][231]LogBlueprintUserMessages: [InventoryComponent] Add
+[2021.04.07-19.18.47:433][341]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2021.04.07-19.18.47:433][341]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2021.04.07-19.18.47:790][365]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2021.04.07-19.18.47:790][365]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.04.07-19.18.48:324][400]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2021.04.07-19.18.48:325][400]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2021.04.07-19.18.49:109][451]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2021.04.07-19.18.49:109][451]LogScript: Warning: Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue
+	InventorySlot_C /Engine/Transient.UnrealEdEngine_0:Phobias_Game_Instance_C_9.InventorySlot_C_16
+	Function /Game/BluePrints/InventorySystem/InventoryUI/InventorySlot.InventorySlot_C:OnMouseButtonDown:0237
+[2021.04.07-19.18.49:110][451]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_FinishSpawningActor_ReturnValue". Blueprint:  InventorySlot Function:  On Mouse Button Down Graph:  OnMouseButtonDown Node:  Use Item
+[2021.04.07-19.18.49:110][451]LogBlueprintUserMessages: [InventorySlot_C_16] false
+[2021.04.07-19.18.49:325][465]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2021.04.07-19.18.49:325][465]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2021.04.07-19.19.15:747][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.19.15:747][209]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.19.15:747][209]LogSlate: Window 'Phobias Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.07-19.19.15:752][209]LogWorld: UWorld::CleanupWorld for Fear_Of_The_Dark, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-19.19.15:753][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.19.15:778][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.07-19.19.15:796][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.19.15:811][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.19.15:812][209]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.19.15:834][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.04.07-19.19.15:900][210]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.04.07-19.19.49:576][ 58]BlueprintLog: New page: Compile OpenDoorBP
+[2021.04.07-19.19.49:748][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.04.07-19.19.49:872][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/KeySystem/OpenDoorBP" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset" SILENT=true
+[2021.04.07-19.19.49:928][ 58]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/OpenDoorBP9E579C1143DBB189266855A37E366AAA.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset'
+[2021.04.07-19.19.49:948][ 58]AssetCheck: New page: Asset Save: OpenDoorBP
+[2021.04.07-19.19.49:948][ 58]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/KeySystem/OpenDoorBP.OpenDoorBP
+[2021.04.07-19.19.50:137][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/KeySystem/OpenDoorBP" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset" SILENT=true
+[2021.04.07-19.19.50:191][ 64]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/OpenDoorBPBB252BEF4B94F08A9CA0FABCD3D701BD.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset'
+[2021.04.07-19.19.50:201][ 64]AssetCheck: New page: Asset Save: OpenDoorBP
+[2021.04.07-19.19.50:201][ 64]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/KeySystem/OpenDoorBP.OpenDoorBP
+[2021.04.07-19.19.50:472][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/KeySystem/OpenDoorBP" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset" SILENT=true
+[2021.04.07-19.19.50:524][ 86]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/OpenDoorBPA43701A74D50D60F6D269A9ED57D005C.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset'
+[2021.04.07-19.19.50:536][ 86]AssetCheck: New page: Asset Save: OpenDoorBP
+[2021.04.07-19.19.50:536][ 86]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/KeySystem/OpenDoorBP.OpenDoorBP
+[2021.04.07-19.21.51:244][272]BlueprintLog: New page: Compile OpenDoorBP
+[2021.04.07-19.21.51:418][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.04.07-19.21.51:542][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/KeySystem/OpenDoorBP" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset" SILENT=true
+[2021.04.07-19.21.51:597][272]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/OpenDoorBP2217DED04005B944406CF289C0BF41C4.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset'
+[2021.04.07-19.21.51:620][272]AssetCheck: New page: Asset Save: OpenDoorBP
+[2021.04.07-19.21.51:620][272]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/KeySystem/OpenDoorBP.OpenDoorBP
+[2021.04.07-19.21.51:855][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/KeySystem/OpenDoorBP" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset" SILENT=true
+[2021.04.07-19.21.51:908][284]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/OpenDoorBPC77E8F4A4BEA79830688838C0C019248.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset'
+[2021.04.07-19.21.51:918][284]AssetCheck: New page: Asset Save: OpenDoorBP
+[2021.04.07-19.21.51:918][284]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/KeySystem/OpenDoorBP.OpenDoorBP
+[2021.04.07-19.21.52:595][357]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.07-19.21.52:601][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.07-19.21.52:601][357]PIE: New page: PIE session: Fear_Of_The_Dark (Apr 7, 2021, 11:21:52 AM)
+[2021.04.07-19.21.52:601][357]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.21.52:620][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019176s)
+[2021.04.07-19.21.52:621][357]LogAIModule: Creating AISystem for world Fear_Of_The_Dark
+[2021.04.07-19.21.52:621][357]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2021.04.07-19.21.52:622][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark to /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark (0.020231s)
+[2021.04.07-19.21.52:638][357]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.04.07-19.21.52:639][357]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.04.07-19.21.52:639][357]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.07-19.21.52:639][357]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.07-19.21.52:639][357]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.07-19.21.52:639][357]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.07-19.21.52:639][357]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.07-19.21.52:639][357]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.07-19.21.52:639][357]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.07-19.21.52:639][357]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.07-19.21.52:640][357]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.07-19.21.52:640][357]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.07-19.21.52:642][357]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.07-19.21.52:642][357]LogAudioMixer: Display: 1: FrontRight
+[2021.04.07-19.21.52:642][357]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.07-19.21.52:642][357]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.07-19.21.52:642][357]LogAudioMixer: Display: 4: BackLeft
+[2021.04.07-19.21.52:642][357]LogAudioMixer: Display: 5: BackRight
+[2021.04.07-19.21.52:642][357]LogAudioMixer: Display: 6: SideLeft
+[2021.04.07-19.21.52:642][357]LogAudioMixer: Display: 7: SideRight
+[2021.04.07-19.21.52:658][357]LogAudioMixer: Display: Using Audio Device Speakers (7.1 Surround Sound)
+[2021.04.07-19.21.52:659][357]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.07-19.21.52:659][357]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.07-19.21.52:659][357]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.07-19.21.52:659][357]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.07-19.21.52:659][357]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.07-19.21.52:659][357]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.07-19.21.52:674][357]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.07-19.21.52:674][357]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.07-19.21.52:674][357]LogInit: FAudioDevice initialized.
+[2021.04.07-19.21.52:674][357]LogAudio: Display: Audio Device (ID: 12) registered with world 'Fear_Of_The_Dark'.
+[2021.04.07-19.21.52:722][357]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.21.52:722][357]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.07-19.21.52:726][357]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark up for play (max tick rate 0) at 2021.04.07-15.21.52
+[2021.04.07-19.21.52:726][357]LogWorld: Bringing up level for play took: 0.004323
+[2021.04.07-19.21.52:727][357]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.04.07-19.21.52:728][357]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.07-19.21.52:730][357]LogBlueprintUserMessages: [InventoryComponent] Pre Prepare
+[2021.04.07-19.21.52:730][357]LogBlueprintUserMessages: [InventoryComponent] Prepared
+[2021.04.07-19.21.52:730][357]LogBlueprintUserMessages: [InventoryComponent] Whats Next
+[2021.04.07-19.21.52:733][357]PIE: Server logged in
+[2021.04.07-19.21.52:734][357]PIE: Play in editor total start time 0.135 seconds.
+[2021.04.07-19.21.54:828][491]LogBlueprintUserMessages: [InventoryComponent] Add True
+[2021.04.07-19.21.54:828][491]LogBlueprintUserMessages: [InventoryComponent] Adding To Stack
+[2021.04.07-19.21.54:828][491]LogBlueprintUserMessages: [InventoryComponent] Add
+[2021.04.07-19.22.16:726][878]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.22.16:727][878]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.22.16:727][878]LogSlate: Window 'Phobias Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.07-19.22.16:733][878]LogWorld: UWorld::CleanupWorld for Fear_Of_The_Dark, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-19.22.16:734][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.22.16:752][878]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.07-19.22.16:770][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.22.16:784][878]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.07-19.22.16:784][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.22.16:785][878]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.22.16:807][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.04.07-19.22.16:855][879]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.04.07-19.23.36:315][ 94]BlueprintLog: New page: Compile OpenDoorBP
+[2021.04.07-19.23.36:488][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.04.07-19.23.36:611][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/KeySystem/OpenDoorBP" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset" SILENT=true
+[2021.04.07-19.23.36:666][ 94]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/OpenDoorBPBC48F08049D254C210A54FA5AD57FA07.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset'
+[2021.04.07-19.23.36:685][ 94]AssetCheck: New page: Asset Save: OpenDoorBP
+[2021.04.07-19.23.36:685][ 94]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/KeySystem/OpenDoorBP.OpenDoorBP
+[2021.04.07-19.23.36:875][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/KeySystem/OpenDoorBP" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset" SILENT=true
+[2021.04.07-19.23.36:928][101]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/OpenDoorBP875671AF48C38F556DBAEBBCB3C94071.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset'
+[2021.04.07-19.23.36:938][101]AssetCheck: New page: Asset Save: OpenDoorBP
+[2021.04.07-19.23.36:938][101]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/KeySystem/OpenDoorBP.OpenDoorBP
+[2021.04.07-19.23.37:194][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/KeySystem/OpenDoorBP" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset" SILENT=true
+[2021.04.07-19.23.37:247][119]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/OpenDoorBP63A9BC8E4C676BAA8B6A53B49724D522.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset'
+[2021.04.07-19.23.37:258][119]AssetCheck: New page: Asset Save: OpenDoorBP
+[2021.04.07-19.23.37:258][119]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/KeySystem/OpenDoorBP.OpenDoorBP
+[2021.04.07-19.23.37:932][196]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.04.07-19.23.37:939][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.04.07-19.23.37:939][196]PIE: New page: PIE session: Fear_Of_The_Dark (Apr 7, 2021, 11:23:37 AM)
+[2021.04.07-19.23.37:939][196]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.23.37:958][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019136s)
+[2021.04.07-19.23.37:959][196]LogAIModule: Creating AISystem for world Fear_Of_The_Dark
+[2021.04.07-19.23.37:959][196]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2021.04.07-19.23.37:959][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark to /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark (0.020166s)
+[2021.04.07-19.23.37:977][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.04.07-19.23.37:977][196]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.04.07-19.23.37:977][196]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.04.07-19.23.37:977][196]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.04.07-19.23.37:977][196]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.04.07-19.23.37:977][196]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.04.07-19.23.37:977][196]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.04.07-19.23.37:978][196]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.04.07-19.23.37:978][196]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.04.07-19.23.37:978][196]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.04.07-19.23.37:978][196]LogAudio: Display: Using built-in audio occlusion.
+[2021.04.07-19.23.37:978][196]LogAudioMixer: Display: Initializing audio mixer.
+[2021.04.07-19.23.37:980][196]LogAudioMixer: Display: 0: FrontLeft
+[2021.04.07-19.23.37:980][196]LogAudioMixer: Display: 1: FrontRight
+[2021.04.07-19.23.37:980][196]LogAudioMixer: Display: 2: FrontCenter
+[2021.04.07-19.23.37:980][196]LogAudioMixer: Display: 3: LowFrequency
+[2021.04.07-19.23.37:980][196]LogAudioMixer: Display: 4: BackLeft
+[2021.04.07-19.23.37:980][196]LogAudioMixer: Display: 5: BackRight
+[2021.04.07-19.23.37:980][196]LogAudioMixer: Display: 6: SideLeft
+[2021.04.07-19.23.37:980][196]LogAudioMixer: Display: 7: SideRight
+[2021.04.07-19.23.37:996][196]LogAudioMixer: Display: Using Audio Device Speakers (7.1 Surround Sound)
+[2021.04.07-19.23.37:996][196]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.04.07-19.23.37:996][196]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.04.07-19.23.37:996][196]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.04.07-19.23.37:997][196]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.04.07-19.23.37:997][196]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.04.07-19.23.37:997][196]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2021.04.07-19.23.38:012][196]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.04.07-19.23.38:012][196]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.04.07-19.23.38:012][196]LogInit: FAudioDevice initialized.
+[2021.04.07-19.23.38:012][196]LogAudio: Display: Audio Device (ID: 13) registered with world 'Fear_Of_The_Dark'.
+[2021.04.07-19.23.38:059][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.23.38:059][196]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.04.07-19.23.38:063][196]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Fear_Of_The_Dark.Fear_Of_The_Dark up for play (max tick rate 0) at 2021.04.07-15.23.38
+[2021.04.07-19.23.38:064][196]LogWorld: Bringing up level for play took: 0.004104
+[2021.04.07-19.23.38:064][196]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.04.07-19.23.38:066][196]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.04.07-19.23.38:068][196]LogBlueprintUserMessages: [InventoryComponent] Pre Prepare
+[2021.04.07-19.23.38:068][196]LogBlueprintUserMessages: [InventoryComponent] Prepared
+[2021.04.07-19.23.38:068][196]LogBlueprintUserMessages: [InventoryComponent] Whats Next
+[2021.04.07-19.23.38:070][196]PIE: Server logged in
+[2021.04.07-19.23.38:071][196]PIE: Play in editor total start time 0.134 seconds.
+[2021.04.07-19.23.40:678][358]LogBlueprintUserMessages: [InventoryComponent] Add True
+[2021.04.07-19.23.40:678][358]LogBlueprintUserMessages: [InventoryComponent] Adding To Stack
+[2021.04.07-19.23.40:678][358]LogBlueprintUserMessages: [InventoryComponent] Add
+[2021.04.07-19.24.08:166][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.04.07-19.24.08:166][152]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Fear_Of_The_Dark
+[2021.04.07-19.24.08:167][152]LogSlate: Window 'Phobias Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.04.07-19.24.08:173][152]LogWorld: UWorld::CleanupWorld for Fear_Of_The_Dark, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-19.24.08:174][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.24.08:198][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.04.07-19.24.08:215][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.24.08:229][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.07-19.24.08:229][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.24.08:231][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.04.07-19.24.08:253][152]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.04.07-19.24.08:310][153]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.04.07-19.24.31:639][880]BlueprintLog: New page: Compile OpenDoorBP
+[2021.04.07-19.24.31:811][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.04.07-19.24.31:941][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/KeySystem/OpenDoorBP" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset" SILENT=true
+[2021.04.07-19.24.31:997][880]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/OpenDoorBP5D22E94440DAC6B8330ACAA5AB8DB9EB.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/KeySystem/OpenDoorBP.uasset'
+[2021.04.07-19.24.32:015][880]AssetCheck: New page: Asset Save: OpenDoorBP
+[2021.04.07-19.24.32:015][880]LogContentValidation: Display: Validating Blueprint /Game/BluePrints/KeySystem/OpenDoorBP.OpenDoorBP
+[2021.04.07-19.24.32:731][945]BlueprintLog: New page: Compile OpenDoorBP
+[2021.04.07-19.24.32:904][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.04.07-19.24.32:976][946]BlueprintLog: New page: Compile OpenDoorBP
+[2021.04.07-19.24.33:151][946]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.04.07-19.24.34:240][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.04.07-19.24.34:312][ 32]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark09CF3C1C45DC7C127D07978AE7618717.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark.umap'
+[2021.04.07-19.24.34:387][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Fear_Of_The_Dark_BuiltData" FILE="C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark_BuiltData.uasset" SILENT=true
+[2021.04.07-19.24.34:712][ 32]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Fear_Of_The_Dark_BuiltDataD426F8FB41D5A7988BE65791B00E582F.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/Levels/Fear_Of_The_Dark_BuiltData.uasset'
+[2021.04.07-19.24.34:811][ 32]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2021.04.07-19.24.34:811][ 32]SourceControl: Error: Phobias/Content/Levels/Fear_Of_The_Dark_BuiltData.uasset
+[2021.04.07-19.24.34:811][ 32]SourceControl: Error: hint: Use -f if you really want to add them.
+[2021.04.07-19.24.34:811][ 32]SourceControl: Error: hint: Turn this message off by running
+[2021.04.07-19.24.34:811][ 32]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2021.04.07-19.24.34:822][ 32]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.07-19.24.34:822][ 32]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Fear_Of_The_Dark_BuiltData.Fear_Of_The_Dark_BuiltData
+[2021.04.07-19.24.34:822][ 32]LogContentValidation: Display: Validating World /Game/Levels/Fear_Of_The_Dark.Fear_Of_The_Dark
+[2021.04.07-19.24.56:097][565]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/BluePrints/SaveSystem/PlayerSaveData.PlayerSaveData
+[2021.04.07-19.25.04:539][376]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/BluePrints/InventorySystem/ItemStructure.ItemStructure
+[2021.04.07-19.25.12:511][935]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_1' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_1' is empty
+[2021.04.07-19.25.14:538][173]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_5' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_5' is empty
+[2021.04.07-19.25.15:928][323]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/ItemStructureD14485824FF33A58B2ED56B57809ED8C.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/InventorySystem/ItemStructure.uasset'
+[2021.04.07-19.25.15:938][323]AssetCheck: New page: Asset Save: ItemStructure
+[2021.04.07-19.25.15:938][323]LogContentValidation: Display: Validating UserDefinedStruct /Game/BluePrints/InventorySystem/ItemStructure.ItemStructure
+[2021.04.07-19.27.53:246][290]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_9' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_9' is empty
+[2021.04.07-19.27.56:078][625]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_13' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_13' is empty
+[2021.04.07-19.27.56:293][646]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_17' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_17' is empty
+[2021.04.07-19.28.00:584][156]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_21' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_21' is empty
+[2021.04.07-19.28.01:318][239]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_25' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_25' is empty
+[2021.04.07-19.28.08:276][ 62]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_29' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_29' is empty
+[2021.04.07-19.28.08:455][ 78]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_33' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_33' is empty
+[2021.04.07-19.28.09:284][172]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_37' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_37' is empty
+[2021.04.07-19.28.10:672][333]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_41' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_41' is empty
+[2021.04.07-19.28.12:421][537]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_45' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_45' is empty
+[2021.04.07-19.28.23:255][828]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_49' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_49' is empty
+[2021.04.07-19.28.25:397][ 79]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_53' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_53' is empty
+[2021.04.07-19.28.27:099][277]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_57' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_57' is empty
+[2021.04.07-19.28.29:445][552]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_61' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_61' is empty
+[2021.04.07-19.28.29:990][611]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_65' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_65' is empty
+[2021.04.07-19.28.31:778][819]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_69' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_69' is empty
+[2021.04.07-19.28.33:617][ 33]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_73' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_73' is empty
+[2021.04.07-19.28.34:750][162]LogClass: UUserDefinedStruct.Serialize 'STRUCT_REINST_SlotStructure_77' validation: Struct 'UserDefinedStruct /Engine/Transient.STRUCT_REINST_SlotStructure_77' is empty
+[2021.04.07-19.28.54:091][455]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/ItemStructureA257318F4D25CB69DD1449B047D92264.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/InventorySystem/ItemStructure.uasset'
+[2021.04.07-19.28.54:101][455]AssetCheck: New page: Asset Save: ItemStructure
+[2021.04.07-19.28.54:101][455]LogContentValidation: Display: Validating UserDefinedStruct /Game/BluePrints/InventorySystem/ItemStructure.ItemStructure
+[2021.04.07-19.29.00:702][987]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.04.07-19.29.00:702][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.07-19.30.38:386][130]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/BluePrints/InventorySystem/SlotStructure.SlotStructure
+[2021.04.07-19.30.50:188][524]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/SlotStructure332B4731475635589781CAAAE2041BAB.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/InventorySystem/SlotStructure.uasset'
+[2021.04.07-19.30.50:198][524]AssetCheck: New page: Asset Save: SlotStructure
+[2021.04.07-19.30.50:198][524]LogContentValidation: Display: Validating UserDefinedStruct /Game/BluePrints/InventorySystem/SlotStructure.SlotStructure
+[2021.04.07-19.31.09:505][814]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/ItemStructure8CDC87A2486B13A5DD6766AD1C392D66.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Content/BluePrints/InventorySystem/ItemStructure.uasset'
+[2021.04.07-19.31.09:514][814]AssetCheck: New page: Asset Save: ItemStructure
+[2021.04.07-19.31.09:514][814]LogContentValidation: Display: Validating UserDefinedStruct /Game/BluePrints/InventorySystem/ItemStructure.ItemStructure
+[2021.04.07-19.31.17:761][692]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/InventorySystem/InventoryComponent.InventoryComponent
+[2021.04.07-19.34.34:922][577]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.04.07-19.34.34:926][577]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Fear_Of_The_Dark' took 0.035
+[2021.04.07-19.34.34:926][577]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/InventorySystem/Item] ([1] browsable assets)...
+[2021.04.07-19.34.34:926][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/InventorySystem/Item]
+[2021.04.07-19.34.34:942][577]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Item_Auto21A686D0B4AABE96C6BB10788DC57A726.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Autosaves/Game/BluePrints/InventorySystem/Item_Auto2.uasset'
+[2021.04.07-19.34.34:943][577]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/InventorySystem/InventoryComponent] ([1] browsable assets)...
+[2021.04.07-19.34.34:943][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/InventorySystem/InventoryComponent]
+[2021.04.07-19.34.34:986][577]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/InventoryComponent_Auto204E21BBD41081D134139A2A816AEEBEC.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Autosaves/Game/BluePrints/InventorySystem/InventoryComponent_Auto2.uasset'
+[2021.04.07-19.34.34:988][577]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/InventorySystem/InventoryUI/InventorySlot] ([1] browsable assets)...
+[2021.04.07-19.34.34:988][577]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/InventorySystem/InventoryUI/InventorySlot]
+[2021.04.07-19.34.35:016][577]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/InventorySlot_Auto2C07B11BA41BA65358AD85185E9982E0D.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Autosaves/Game/BluePrints/InventorySystem/InventoryUI/InventorySlot_Auto2.uasset'
+[2021.04.07-19.34.35:017][577]LogFileHelpers: Auto-saving content packages took 0.091
+[2021.04.07-19.40.59:366][808]BlueprintLog: New page: Compile InventoryComponent
+[2021.04.07-19.40.59:373][808]LogBlueprint: Error: [AssetLog] C:\Users\edwin\Documents\Github\Phobia-Third-Person\Phobias\Content\BluePrints\InventorySystem\InventoryComponent.uasset: [Compiler] In use pin  Array Element Item Structure 4 4A7CE9F84ACBFD40E0FA30B0A748C104 Class 23 7223A52D48417D9836A073A4CD3A4A2C generated from expanding For Each Loop with Break  no longer exists on node  For Each Loop with Break generated from expanding For Each Loop with Break . Please refresh node or break links to remove pin.
+[2021.04.07-19.40.59:374][808]LogBlueprint: Warning: [AssetLog] C:\Users\edwin\Documents\Github\Phobia-Third-Person\Phobias\Content\BluePrints\InventorySystem\InventoryComponent.uasset: [Compiler] For Each Loop with Break generated from expanding Has Partial Stack  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2021.04.07-19.40.59:374][808]LogBlueprint: Error: [AssetLog] C:\Users\edwin\Documents\Github\Phobia-Third-Person\Phobias\Content\BluePrints\InventorySystem\InventoryComponent.uasset: [Compiler] In use pin  Content to Add Item Structure 4 4A7CE9F84ACBFD40E0FA30B0A748C104 Is Stackable? 7 48C5BD7D4CDD8B18429F2280C3729CC1  no longer exists on node  Add to Inventory . Please refresh node or break links to remove pin.
+[2021.04.07-19.40.59:378][808]LogBlueprint: Error: [AssetLog] C:\Users\edwin\Documents\Github\Phobia-Third-Person\Phobias\Content\BluePrints\InventorySystem\InventoryComponent.uasset: [Compiler] In use pin  Output Item Structure 4 4A7CE9F84ACBFD40E0FA30B0A748C104 Max Stack Size 18 3CA85B874FDE25CD272A9E9FADC0D9E6  no longer exists on node  Get (a copy) . Please refresh node or break links to remove pin.
+[2021.04.07-19.40.59:411][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.04.07-19.44.35:409][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.04.07-19.44.35:411][360]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Fear_Of_The_Dark' took 0.019
+[2021.04.07-19.44.35:411][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/InventorySystem/Item] ([1] browsable assets)...
+[2021.04.07-19.44.35:411][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/InventorySystem/Item]
+[2021.04.07-19.44.35:427][360]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Item_Auto3EB5CBEB5413398426084DC88E5525267.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Autosaves/Game/BluePrints/InventorySystem/Item_Auto3.uasset'
+[2021.04.07-19.44.35:428][360]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/InventorySystem/InventoryUI/InventorySlot] ([1] browsable assets)...
+[2021.04.07-19.44.35:428][360]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/InventorySystem/InventoryUI/InventorySlot]
+[2021.04.07-19.44.35:457][360]LogSavePackage: Moving 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/InventorySlot_Auto3590BB124468AA504D65F5DB4B8A52390.tmp' to 'C:/Users/edwin/Documents/Github/Phobia-Third-Person/Phobias/Saved/Autosaves/Game/BluePrints/InventorySystem/InventoryUI/InventorySlot_Auto3.uasset'
+[2021.04.07-19.44.35:458][360]LogFileHelpers: Auto-saving content packages took 0.047
